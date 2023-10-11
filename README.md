@@ -6,17 +6,6 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at EACL 2024 i
 
 *website under construction* 
 
-## Important Dates
-- **First call for papers:** October 20, 2023
-- **Second call for papers:** November 15, 2023
-- **Third call for papers:** December 11 , 2023
-- **Submission deadline:** December 18, 2023
-<!-- - Direct Submission deadline (pre-reviewed ARR & main conference): January 17, 2024 -->
-- **Notification of acceptance:** January 20, 2024
-- **Camera-ready papers due:** January 30 2024
-
-(Note: All deadlines are 11:59pm UTC-12 ("anywhere on earth").)
-
 ## Workshop Topic and Content
 
 Human languages are inherently ambiguous and understanding language input is subject to interpretation and complex contextual dependencies. Nevertheless, the main body of research in NLP is still based on the assumption that ambiguities and other types of underspecification can and have to be re-solved. This workshop will provide a platform for research that embraces variability in human language and aims to represent and evaluate the uncertainty that arises from it, and from modeling tools themselves.
@@ -55,23 +44,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
  
-## Call for Papers
-<!---
-We will accept submissions through Softconf at: https://www.softconf.com/emnlp2023/blackboxnlp2023/. All submissions should use the EMNLP 2023 template and formatting requirements specified by ACL. Archival paper must be fully anonymized. Submissions of both types can be made through Softconf.
-
-### Submission Types
-- **Archival papers** include long and short paper submissions, with original and unpublished work. Long papers may consist of up to 8 pages of content + references. Short papers may consist of up to 4 pages of content + references. Supplementary material can be added in the appendices section after references. The content, references, and (optional) supplementary material should be the part of the same pdf file. Papers in this category will be published in the workshop proceedings of the ACL Anthology, and therefore they cannot be published elsewhere. Submissions in this track should be anonymous. Upon acceptance, both types of papers will be given one (1) additional page of content, which may be used for addressing reviewers’ comments in the camera-ready version.
-
-- **Non-archival extended abstracts** may include work in progress or may be cross-submissions of research that has been published, scheduled to be published, or will later be submitted another archival venue. Abstract titles will be posted on the workshop website but will not be included in the proceedings. The selection will not be based on a double-blind review and therefore submissions of this type need not be anonymized.
-
-### Dual Submissions and Preprints
-Dual submissions are allowed for the archival track, but authors must check the dual submissions policy for the other venue that the work has been or will be published at. 
-
-### Camera-ready information
-Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
--->
-
-## Workshop Organizers
+## Workshop Organizer
 
 - [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
 - [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
@@ -82,6 +55,4 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - [Jörg Tiedemann, University of Helsinki](https://blogs.helsinki.fi/tiedeman/)
 - [Dennis Ulmer, IT University of Copenhagen](https://dennisulmer.eu/)
  
-
-## Anti-Harassment Policy
-UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy) , and [ACL’s code of conduct](https://2024.eacl.org/code/). 
+    
