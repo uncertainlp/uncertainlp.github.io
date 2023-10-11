@@ -2,6 +2,8 @@
 
 Welcome to the website of the **UncertaiNLP** workshop to be held at EACL 2024 in Malta.
 
+*Tagline:* UncertaiNLP brings together researchers embracing sources of uncertainty from human language and NLP tools; harnessing them for improved NLP.
+
 *website under construction* 
 
 ## Workshop Topic and Content
