@@ -108,6 +108,7 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Elaine Zosa (Silo.ai, FI)
 
 ## Workshop Organizers
+You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
 - [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
 - [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
