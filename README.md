@@ -45,12 +45,12 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 ## Workshop Organizer
 
 - [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
-- Joris Baan
-- Hande Celikkanat
-- Marie-Catherine de Marneffe
-- Barbara Plank
-- Swabha Swayamdipta
-- Jörg Tiedemann
-- Dennis Ulmer
+- [Joris Baan, University of Amsterdam]](https://jorisbaan.nl/)
+- [Hande Celikkanat, University of Helsinki](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
+- [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://www.asc.ohio-state.edu/demarneffe.1/)
+- [Barbara Plank, LMU Munich and IT University of Copenhagen](bplank.github.io/)
+- [Swabha Swayamdipta, USC Viterbi CS](https://swabhs.com/)
+- [Jörg Tiedemann, University of Helsinki](https://blogs.helsinki.fi/tiedeman/)
+- [Dennis Ulmer, IT University of Copenhagen](https://dennisulmer.eu/)
  
     
