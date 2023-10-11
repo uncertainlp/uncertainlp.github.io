@@ -45,7 +45,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 ## Workshop Organizer
 
 - [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
-- [Joris Baan, University of Amsterdam]](https://jorisbaan.nl/)
+- [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
 - [Hande Celikkanat, University of Helsinki](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
 - [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://www.asc.ohio-state.edu/demarneffe.1/)
 - [Barbara Plank, LMU Munich and IT University of Copenhagen](bplank.github.io/)
