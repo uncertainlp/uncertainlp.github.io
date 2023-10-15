@@ -78,7 +78,7 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Markus Heinonen (Aalto University, FI)
 - Evgenia Ilia (University of Amsterdam, NL)
 - Metod Jazbec (University of Amsterdam, NL)
-- Robin Jia (USC, USA) %University of Southern California
+- Robin Jia (USC, USA) 
 - Nan-Jiang Jiang (Google, USA)
 - Anders Johannsen (Apple, UK)
 - Gabriella Lapesa (GESIS, DE)
@@ -88,8 +88,8 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Eric Nalisnick (Johns Hopkins University, USA)
 - Philip Schulz (Amazon, AU)
 - Tal Schuster (Google Research, USA)
-- Djamé Seddah (Inria \& Université Paris Sorbonne, FR)
-- Rico Sennerich (University of Zurich, CH \& University of Edinburgh, UK)
+- Djamé Seddah (Inria & Université Paris Sorbonne, FR)
+- Rico Sennerich (University of Zurich, CH & University of Edinburgh, UK)
 - Natalie Schluter (Apple, DK)
 - Sebastian Schuster (Saarland University, DE)
 - Edwin Simpson (University of Bristol, UK)
@@ -101,10 +101,10 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Teemu Vahtola (University of Helsinki, FI)
 - Raúl Vázquez (University of Helsinki, FI)
 - Andreas Vlachos (University of Cambridge)
-- Sami Virpioja (Utopia Analytics \& University of Helsinki, FI)
+- Sami Virpioja (Utopia Analytics & University of Helsinki, FI)
 - Xinpeng Wang (LMU Munich, DE)
 - Leon Weber-Genzel (LMU Munich, DE)
-- Chrysoula Zerva (Instituto de Telecomunicações \& Instituto Superior Técnico, PT)
+- Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
 - Elaine Zosa (Silo.ai, FI)
 
 ## Workshop Organizers
