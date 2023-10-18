@@ -108,7 +108,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background: url('https://github.com/uncertainlp/uncertainlp.github.io/blob/main/assets/robot1_large.png');
+  background: url('file:../assets/robot1_large.png');
   background-size: 100% auto;
 
   @include large {
