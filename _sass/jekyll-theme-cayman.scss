@@ -108,7 +108,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-image: url('../assets/robot3_large.png');
+  background-picture: url('../assets/robot3_large.png');
   background-size: 100% auto;
 
   @include large {
