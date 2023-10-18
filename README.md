@@ -1,124 +1,116 @@
-# First Workshop on Uncertainty-Aware NLP @EACL 2024
+# The Cayman theme
 
-Welcome to the website of the **UncertaiNLP** workshop to be held at EACL 2024 in Malta.
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-*Tagline:* UncertaiNLP brings together researchers embracing sources of uncertainty from human language and NLP tools; harnessing them for improved NLP.
+*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-*website under construction* 
+![Thumbnail of Cayman](thumbnail.png)
 
-## Important Dates
-- **First call for papers:** October 20, 2023
-- **Second call for papers:** November 15, 2023
-- **Third call for papers:** December 11 , 2023
-- **Submission deadline:** December 18, 2023
-<!-- - Direct Submission deadline (pre-reviewed ARR & main conference): January 17, 2024 -->
-- **Notification of acceptance:** January 20, 2024
-- **Camera-ready papers due:** January 30 2024
+## Usage
 
-(Note: All deadlines are 11:59pm UTC-12 ("anywhere on earth").)
+To use the Cayman theme:
 
-## Workshop Topic and Content
+1. Add the following to your site's `_config.yml`:
 
-Human languages are inherently ambiguous and understanding language input is subject to interpretation and complex contextual dependencies. Nevertheless, the main body of research in NLP is still based on the assumption that ambiguities and other types of underspecification can and have to be re-solved. This workshop will provide a platform for research that embraces variability in human language and aims to represent and evaluate the uncertainty that arises from it, and from modeling tools themselves.
+    ```yml
+    remote_theme: pages-themes/cayman@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-### Workshop Topics
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-UncertaiNLP welcomes submissions to topics related (but not limited) to:
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-- *Frameworks for uncertainty representation*
-  - Theoretical work on probability and its generalizations
-  - Symbolic representations of uncertainty
-- *Documenting sources of uncertainty*
-  - Theoretical underpinnings of linguistic sources of variation
-  - Data collection (e.g., to to document linguistic variability, multiple perspectives, etc.)
- 
-- *Modeling*
-  - Explicit representation of model uncertainty (e.g., parameter and/or hypothesis uncertainty, Bayesian NNs in NLU/NLG, verbalised uncertainty, feature density, external calibration modules)
-  - Disentangled representation of different sources of uncertainty (e.g., hierarchical models, prompting)
-  - Reducing uncertainty due to additional context (e.g., additional context, clarification questions, retrieval/API augmented models)
+## Customizing
 
-- *Learning (or parameter estimation)*
-  - Learning from single and/or multiple references
-  - Gradient estimation in latent variable models
- 
-- *Probabilistic inference*
-  - Theoretical and applied work on approximate inference (e.g., variational inference, Langevin dynamics)
-  - Unbiased and asymptotically unbiased sampling algorithms
- 
-- *Decision making*
-  - Utility-aware decoders and controllable generation
-  - Selective prediction
-  - Active learning
-    
-- *Evaluation*
-  - Statistical evaluation of language models
-  - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
-  - Evaluation of epistemic uncertainty
- 
-## Call for Papers
-<!---
-We will accept submissions through Softconf at: TBA. All submissions should use the EACL 2024 template and formatting requirements specified by ACL.
+### Configuration variables
 
-We welcome submissions for long and short paper submissions, with original and unpublished work. Long papers may consist of up to 8 pages of content + references. Short papers may consist of up to 4 pages of content + references. Supplementary material can be added in the appendices section after references. The content, references, and (optional) supplementary material should be the part of the same pdf file. Papers in this category will be published in the workshop proceedings of the ACL Anthology, and therefore they cannot be published elsewhere. Submissions in this track should be anonymous. Upon acceptance, both types of papers will be given one (1) additional page of content, which may be used for addressing reviewers’ comments in the camera-ready version.
+Cayman will respect the following variables, if set in your site's `_config.yml`:
 
-### Camera-ready information
-Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
--->
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-## Program Committee
-- Luigi Acerbi (University of Helsinki, FI)
-- Caio Corro (Université Paris-Saclay, FR)
-- Mathias Creutz (University of Helsinki, FI)
-- Nico Daheim (TU Darmstadt, DE)
-- Greg Durrett (University of Texas, USA)
-- Raquel Fernandez (University Amsterdam, NL)
-- Adam Fisch (MIT, USA)
-- Stella Frank (Copenhagen University, DK)
-- Christian Hardmeier (ITU Copenhagen, DK)
-- Markus Heinonen (Aalto University, FI)
-- Evgenia Ilia (University of Amsterdam, NL)
-- Metod Jazbec (University of Amsterdam, NL)
-- Robin Jia (USC, USA) 
-- Nan-Jiang Jiang (Google, USA)
-- Anders Johannsen (Apple, UK)
-- Gabriella Lapesa (GESIS, DE)
-- Haau-Sing Li (TU Darmstadt, DE)
-- Putra Manggala (University of Amsterday, NL)
-- Timothee Mickus (University of Helsinki, FI)
-- Eric Nalisnick (Johns Hopkins University, USA)
-- Philip Schulz (Amazon, AU)
-- Tal Schuster (Google Research, USA)
-- Djamé Seddah (Inria & Université Paris Sorbonne, FR)
-- Rico Sennerich (University of Zurich, CH & University of Edinburgh, UK)
-- Natalie Schluter (Apple, DK)
-- Sebastian Schuster (Saarland University, DE)
-- Edwin Simpson (University of Bristol, UK)
-- Anders Søgaard (University of Copenhagen, DK)
-- Arno Solin (Aalto University, FI)
-- Dharmesh Tailor (University of Amsterdam, NL)
-- Aarne Talman (Silo.ai, FI)
-- Ivan Titov (University of Edinburgh, UK)
-- Teemu Vahtola (University of Helsinki, FI)
-- Raúl Vázquez (University of Helsinki, FI)
-- Andreas Vlachos (University of Cambridge)
-- Sami Virpioja (Utopia Analytics & University of Helsinki, FI)
-- Xinpeng Wang (LMU Munich, DE)
-- Leon Weber-Genzel (LMU Munich, DE)
-- Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
-- Elaine Zosa (Silo.ai, FI)
+Additionally, you may choose to set the following optional variables:
 
-## Workshop Organizers
-You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-- [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
-- [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
-- [Hande Celikkanat, University of Helsinki](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
-- [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://www.asc.ohio-state.edu/demarneffe.1/)
-- [Barbara Plank, LMU Munich and IT University of Copenhagen](https://bplank.github.io/)
-- [Swabha Swayamdipta, USC Viterbi CS](https://swabhs.com/)
-- [Jörg Tiedemann, University of Helsinki](https://blogs.helsinki.fi/tiedeman/)
-- [Dennis Ulmer, IT University of Copenhagen](https://dennisulmer.eu/)
- 
+### Stylesheet
 
-## Anti-Harassment Policy
-UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy) , and [ACL’s code of conduct](https://2024.eacl.org/code/). 
+If you'd like to add your own custom styles:
+
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+
+### Layouts
+
+If you'd like to change the theme's HTML layout:
+
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/cayman/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
+
+### Customizing Google Analytics code
+
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+
+### Overriding GitHub-generated URLs
+
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+
+1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.

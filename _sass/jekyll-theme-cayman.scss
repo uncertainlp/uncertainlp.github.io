@@ -108,8 +108,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: url(../assests/robot1_large.png);
+  background-image: url("../assets/robot1_large.png");
   background-size: 100% auto;
 
   @include large {
@@ -377,4 +376,3 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
-
