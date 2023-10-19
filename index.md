@@ -56,6 +56,8 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Statistical evaluation of language models
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
+
+<img class="background-image" src="assets/robot2_wide2.png" style='width: 45%; margin: auto;'/>
  
 ## Invited Speakers
 
@@ -158,6 +160,8 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Leon Weber-Genzel (LMU Munich, DE)
 - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
 - Elaine Zosa (Silo.ai, FI)
+
+<img class="background-image" src="assets/robot3_wide2.png" style='width: 45%; margin: auto;'/>
 
 ## Workshop Organizers
 
