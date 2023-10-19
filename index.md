@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!-- # First Workshop on Uncertainty-Aware NLP @EACL 2024 -->
 
 Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 in Malta](https://2024.eacl.org/).
