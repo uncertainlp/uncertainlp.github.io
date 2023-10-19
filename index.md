@@ -15,7 +15,7 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - **Notification of acceptance:** January 20, 2024
 - **Camera-ready papers due:** January 30 2024
 
-(Note: All deadlines are 11:59pm UTC-12 ("anywhere on earth").)
+All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ## Workshop Topic and Content
 
@@ -58,6 +58,15 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Evaluation of epistemic uncertainty
  
 ## Invited Speakers
+
+<div style="display: grid; grid: repeat(2, 60px) / auto-flow 80px;">
+  <div><img src="./assets/speakers/yarin.jpg" width="360" alt="Yarin Gal" /></div>
+  <div><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></div>
+  <div><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></div>
+</div>
+
+
+
 
 <table cellspacing="0" cellpadding="0">
   <tr>
