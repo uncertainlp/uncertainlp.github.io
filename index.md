@@ -61,14 +61,14 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" width="300" alt="Yarin Gal" /></td>
-    <td><img src="./assets/speakers/kristin.png" width="300" alt="Kristin Lennox" /></td>
-    <td><img src="./assets/speakers/mohit.png" width="300" alt="Mohit Bansal" /></td>
+    <td><img src="./assets/speakers/yarin.jpg" width="350" alt="Yarin Gal" /></td>
+    <td><img src="./assets/speakers/kristin.png" width="350" alt="Kristin Lennox" /></td>
+    <td><img src="./assets/speakers/mohit.png" width="350" alt="Mohit Bansal" /></td>
   </tr>
   <tr>
-    <td><figcaption font-size=10px word-wrap="break-word" width="300" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
-    <td><figcaption font-size=10px word-wrap="break-word" width="300" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" width="300" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="350" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="350" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="350" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
   </tr>
 </table>
 
