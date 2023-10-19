@@ -57,7 +57,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
 
-<img class="background-image" src="assets/speakers_header.png" style='width: 100%; margin: auto;'/>
+<img class="background-image" src="assets/speakers_header.png" alt="Invited Speakers" style='width: 100%; margin: auto;'/>
  
 <!-- ## Invited Speakers -->
 
@@ -137,7 +137,7 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
 - Elaine Zosa (Silo.ai, FI)
 
-<img class="background-image" src="assets/organizers_header.png" style='width: 100%; margin: auto;'/>
+<img class="background-image" src="assets/organizers_header.png" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
 
 <!--- ## Workshop Organizers -->
 
