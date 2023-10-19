@@ -1,6 +1,6 @@
 # First Workshop on Uncertainty-Aware NLP @EACL 2024
 
-Welcome to the website of the **UncertaiNLP** workshop to be held at EACL 2024 in Malta.
+Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 in Malta](https://2024.eacl.org/).
 
 *Tagline:* UncertaiNLP brings together researchers embracing sources of uncertainty from human language and NLP tools; harnessing them for improved NLP.
 
@@ -111,7 +111,7 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Philip Schulz (Amazon, AU)
 - Tal Schuster (Google Research, USA)
 - Djamé Seddah (Inria & Université Paris Sorbonne, FR)
-- Rico Sennerich (University of Zurich, CH & University of Edinburgh, UK)
+- Rico Sennrich (University of Zurich, CH & University of Edinburgh, UK)
 - Natalie Schluter (Apple, DK)
 - Sebastian Schuster (Saarland University, DE)
 - Edwin Simpson (University of Bristol, UK)
@@ -163,15 +163,6 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
   </tr>
 </table>
 
-- [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
-- [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
-- [Hande Celikkanat, University of Helsinki](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
-- [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://cental.uclouvain.be/team/mcdm/)
-- [Barbara Plank, LMU Munich and IT University of Copenhagen](https://bplank.github.io/)
-- [Swabha Swayamdipta, USC Viterbi CS](https://swabhs.com/)
-- [Jörg Tiedemann, University of Helsinki](https://blogs.helsinki.fi/tiedeman/)
-- [Dennis Ulmer, IT University of Copenhagen](https://dennisulmer.eu/)
- 
 
 ## Anti-Harassment Policy
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
