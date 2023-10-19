@@ -59,7 +59,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
  
 ## Invited Speakers
 
-<div style="display: grid; grid: repeat(2, 60px) / auto-flow 80px;">
+<div style="display: grid; grid-template-rows: auto; width=350;">
   <div><img src="./assets/speakers/yarin.jpg" width="360" alt="Yarin Gal" /></div>
   <div><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></div>
   <div><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></div>
