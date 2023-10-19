@@ -61,8 +61,8 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" width="350" /></td>
-    <td><img src="./assets/speakers/kristin.png" width="350" /></td>
+    <td><img src="./assets/speakers/yarin.jpg" width="300" /></td>
+    <td><img src="./assets/speakers/kristin.png" width="300" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
@@ -135,10 +135,10 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/wilker.jpeg" width="350" /></td>
-    <td><img src="./assets/organizers/joris.png" width="350" /></td>
-    <td><img src="./assets/organizers/hande.png" width="350" /></td>
-    <td><img src="./assets/organizers/marie-catherine.jpg" width="350" /></td>
+    <td><img src="./assets/organizers/wilker.jpeg" width="20%" /></td>
+    <td><img src="./assets/organizers/joris.png" width="20%" /></td>
+    <td><img src="./assets/organizers/hande.png" width="20%" /></td>
+    <td><img src="./assets/organizers/marie-catherine.jpg" width="20%" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
@@ -150,10 +150,10 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
 <br>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/barbara.png" width="350" /></td>
-    <td><img src="./assets/organizers/swabha.jpeg" width="350" /></td>
-    <td><img src="./assets/organizers/joerg.png" width="350" /></td>
-    <td><img src="./assets/organizers/dennis.jpg" width="350" /></td>
+    <td><img src="./assets/organizers/barbara.png" width="20%" /></td>
+    <td><img src="./assets/organizers/swabha.jpeg" width="20%" /></td>
+    <td><img src="./assets/organizers/joerg.png" width="20%" /></td>
+    <td><img src="./assets/organizers/dennis.jpg" width="20%" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://bplank.github.io/">Barbara Plank, LMU Munich and IT University of Copenhagen</a></figcaption></td>
