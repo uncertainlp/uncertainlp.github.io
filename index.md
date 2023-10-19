@@ -57,6 +57,14 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
  
+## Invited Speakers
+
+| ![Kristin Lennox](./assets/speakers/kristin.png)  | ![Yarin Gal](./assets/speakers/yarin.jpg) |
+| ----------------------------------- | ----------------------------------- |
+| Kristin Lennox (Exponent, US) | Yarin Gal (University of Oxford, UK) |
+
+
+
 ## Call for Papers
 <!---
 We will accept submissions through Softconf at: TBA. All submissions should use the EACL 2024 template and formatting requirements specified by ACL.
