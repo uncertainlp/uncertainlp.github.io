@@ -61,9 +61,9 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" height="200" alt="Yarin Gal" class="center" /></td>
-    <td><img src="./assets/speakers/kristin.png" height="200" alt="Kristin Lennox" class="center" /></td>
-    <td><img src="./assets/speakers/mohit.png" height="200" alt="Mohit Bansal" class="center" /></td>
+    <td><img src="./assets/speakers/yarin.jpg" width="200" alt="Yarin Gal" /></td>
+    <td><img src="./assets/speakers/kristin.png" width="200" alt="Kristin Lennox" /></td>
+    <td><img src="./assets/speakers/mohit.png" width="200" alt="Mohit Bansal" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
