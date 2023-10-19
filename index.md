@@ -59,10 +59,10 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
  
 ## Invited Speakers
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" width="20%" /></td>
-    <td><img src="./assets/speakers/kristin.png" width="20%" /></td>
+    <td><img src="./assets/speakers/yarin.jpg" width="500" /></td>
+    <td><img src="./assets/speakers/kristin.png" width="500" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
