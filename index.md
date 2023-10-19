@@ -60,13 +60,13 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 ## Invited Speakers
 
 <div class="row">
-  <div float="left", padding="5x">
+  <div float="left" padding="5x">
   <figure display="inline-block">
     <img src="./assets/speakers/yarin.jpg" width="20%" />
     <figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption>
   </figure>
   </div>
-  <div class="column">
+  <div float="left" padding="5x">
     <figure display="inline-block">  
       <img src="./assets/speakers/kristin.png" width="20%" /> 
       <figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> 
