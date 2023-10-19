@@ -63,16 +63,20 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   <tr>
     <td><img src="./assets/speakers/yarin.jpg" width="300" /></td>
     <td><img src="./assets/speakers/kristin.png" width="300" /></td>
+    <td><img src="./assets/speakers/mohit.png" width="300" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Mohit Bansal (University of North Carolina at Chapel Hill, US)</figcaption> </td>
   </tr>
 </table>
 
 *Yarin Gal* is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science.
 
 *Kristin Lennox* has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
+
+*Mohit Bansal* is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals. Webpage: https://www.cs.unc.edu/~mbansal/
 
 ## Call for Papers
 <!---
