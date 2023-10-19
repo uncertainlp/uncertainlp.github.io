@@ -61,15 +61,19 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <p float="left">
   <figure>
-    <img src="./assets/speakers/yarin.jpg" width="25%" />
-  <figcaption>Yarin Gal (University of Oxford)</figcaption>
+    <img src="./assets/speakers/yarin.jpg" width="20%" />
+  <figcaption font-size=10px>Yarin Gal (tentative; University of Oxford, UK)</figcaption>
   </figure>
   <figure>  
-    <img src="./assets/speakers/kristin.png" width="25%" /> 
- <figcaption>Kristin Lennox (Exponent, US)</figcaption> 
+    <img src="./assets/speakers/kristin.png" width="20%" /> 
+ <figcaption font-size=10px>Kristin Lennox (Exponent, US)</figcaption> 
  </figure>
 </p>
 
+*Yarin Gal* is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science.
+
+*Kristin Lennox* has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments.  
+Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
 
 ## Call for Papers
 <!---
