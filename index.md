@@ -66,9 +66,9 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
     <td><img src="./assets/speakers/mohit.png" width="280" alt="Mohit Bansal" /></td>
   </tr>
   <tr>
-    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
-    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="280" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="280" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="280" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
   </tr>
 </table>
 
