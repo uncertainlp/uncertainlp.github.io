@@ -19,7 +19,7 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - **Notification of acceptance:** January 20, 2024
 - **Camera-ready papers due:** January 30 2024
 
-(Note: All deadlines are 11:59pm UTC-12 ("anywhere on earth").)
+All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ## Workshop Topic and Content
 
@@ -60,8 +60,10 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Statistical evaluation of language models
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
+
+<img class="background-image" src="assets/speakers_header.png" alt="Invited Speakers" style='width: 100%; margin: auto;'/>
  
-## Invited Speakers
+<!-- ## Invited Speakers -->
 
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -76,11 +78,13 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   </tr>
 </table>
 
-*Yarin Gal* is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science.
+**Yarin Gal** is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science.
 
-*Kristin Lennox* has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
+**Kristin Lennox** has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
 
-*Mohit Bansal* is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals. Webpage: https://www.cs.unc.edu/~mbansal/
+**Mohit Bansal** is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals.
+
+**Note**: More speakers are going to be announced soon!
 
 ## Call for Papers
 <!---
@@ -137,7 +141,9 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
 - Elaine Zosa (Silo.ai, FI)
 
-## Workshop Organizers
+<img class="background-image" src="assets/organizers_header.png" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
+
+<!--- ## Workshop Organizers -->
 
 You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
@@ -176,3 +182,6 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
 policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy) , and [ACL’s code of conduct](https://2024.eacl.org/code/). 
 
+## Image Credits
+
+Images were created using text-to-image model supplied via [getimg.ai/](https://getimg.ai/text-to-image), using the [CreativeML Open Rail-M license](https://huggingface.co/spaces/CompVis/stable-diffusion-license).
