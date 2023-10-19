@@ -135,25 +135,25 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/wilker.jpeg" width="20%" /></td>
-    <td><img src="./assets/organizers/joris.png" width="20%" /></td>
-    <td><img src="./assets/organizers/hande.png" width="20%" /></td>
-    <td><img src="./assets/organizers/marie-catherine.jpg" width="20%" /></td>
+    <td><img src="./assets/organizers/wilker.jpeg" width="200" /></td>
+    <td><img src="./assets/organizers/joris.png" width="200" /></td>
+    <td><img src="./assets/organizers/hande.png" width="200" /></td>
+    <td><img src="./assets/organizers/marie-catherine.jpg" width="200" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://jorisbaan.nl/">Joris Baan, University of Amsterdam</a></figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://researchportal.helsinki.fi/en/persons/hande-celikkanat">Hande Celikkanat, University of Helsinki</a><</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://researchportal.helsinki.fi/en/persons/hande-celikkanat">Hande Celikkanat, University of Helsinki</a></figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://cental.uclouvain.be/team/mcdm/">Marie-Catherine de Marneffe, UCLouvain and FNRS</a></figcaption> </td>
   </tr>
 </table>
 <br>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/barbara.png" width="20%" /></td>
-    <td><img src="./assets/organizers/swabha.jpeg" width="20%" /></td>
-    <td><img src="./assets/organizers/joerg.png" width="20%" /></td>
-    <td><img src="./assets/organizers/dennis.jpg" width="20%" /></td>
+    <td><img src="./assets/organizers/barbara.png" width="200" /></td>
+    <td><img src="./assets/organizers/swabha.jpeg" width="200" /></td>
+    <td><img src="./assets/organizers/joerg.png" width="200" /></td>
+    <td><img src="./assets/organizers/dennis.jpg" width="200" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://bplank.github.io/">Barbara Plank, LMU Munich and IT University of Copenhagen</a></figcaption></td>
