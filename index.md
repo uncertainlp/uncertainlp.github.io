@@ -59,20 +59,18 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
  
 ## Invited Speakers
 
-<div class="row">
-  <div float="left" padding="5x">
-  <figure display="inline-block">
+<table>
+  <tr>
+  <td><figure display="inline-block">
     <img src="./assets/speakers/yarin.jpg" width="20%" />
     <figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption>
-  </figure>
-  </div>
-  <div float="left" padding="5x">
-    <figure display="inline-block">  
+  </figure></td>
+  <td><figure display="inline-block">  
       <img src="./assets/speakers/kristin.png" width="20%" /> 
       <figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> 
-   </figure>
- </div>
-</div>
+   </figure></td>
+  </tr>
+</table>
 
 *Yarin Gal* is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science.
 
