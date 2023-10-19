@@ -61,8 +61,8 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" width="500" /></td>
-    <td><img src="./assets/speakers/kristin.png" width="500" /></td>
+    <td><img src="./assets/speakers/yarin.jpg" width="350" /></td>
+    <td><img src="./assets/speakers/kristin.png" width="350" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
@@ -130,12 +130,43 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 - Elaine Zosa (Silo.ai, FI)
 
 ## Workshop Organizers
+
 You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="./assets/organizers/wilker.jpeg" width="350" /></td>
+    <td><img src="./assets/organizers/joris.png" width="350" /></td>
+    <td><img src="./assets/organizers/hande.png" width="350" /></td>
+    <td><img src="./assets/organizers/marie-catherine.jpg" width="350" /></td>
+  </tr>
+  <tr>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://jorisbaan.nl/">Joris Baan, University of Amsterdam</a></figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://researchportal.helsinki.fi/en/persons/hande-celikkanat">Hande Celikkanat, University of Helsinki</a><</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto"><a href="https://cental.uclouvain.be/team/mcdm/">Marie-Catherine de Marneffe, UCLouvain and FNRS/a></figcaption> </td>
+  </tr>
+</table>
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="./assets/organizers/barbara.png" width="350" /></td>
+    <td><img src="./assets/organizers/swabha.jpeg" width="350" /></td>
+    <td><img src="./assets/organizers/joerg.png" width="350" /></td>
+    <td><img src="./assets/organizers/dennis.jpg" width="350" /></td>
+  </tr>
+  <tr>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
+  </tr>
+</table>
 
 - [Wilker Aziz, University of Amsterdam](https://wilkeraziz.github.io/)
 - [Joris Baan, University of Amsterdam](https://jorisbaan.nl/)
 - [Hande Celikkanat, University of Helsinki](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
-- [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://www.asc.ohio-state.edu/demarneffe.1/)
+- [Marie-Catherine de Marneffe, UCLouvain and FNRS](https://cental.uclouvain.be/team/mcdm/)
 - [Barbara Plank, LMU Munich and IT University of Copenhagen](https://bplank.github.io/)
 - [Swabha Swayamdipta, USC Viterbi CS](https://swabhs.com/)
 - [Jörg Tiedemann, University of Helsinki](https://blogs.helsinki.fi/tiedeman/)
