@@ -59,10 +59,17 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
  
 ## Invited Speakers
 
+
+
 | ![Kristin Lennox](./assets/speakers/kristin.png)  | ![Yarin Gal](./assets/speakers/yarin.jpg) |
 | ----------------------------------- | ----------------------------------- |
 | Kristin Lennox (Exponent, US) | Yarin Gal (University of Oxford, UK) |
 
+
+<p float="left">
+  <img src="./assets/speakers/yarin.jpg" height="100" />
+  <img src="./assets/speakers/kristin.jpg" height="100" /> 
+</p>
 
 
 ## Call for Papers
