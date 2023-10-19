@@ -62,7 +62,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 <div style="display: grid; grid-template-rows: 1; width=250;">
   <div>
     <img src="./assets/speakers/yarin.jpg" width="250" alt="Yarin Gal" />
-    <figcaption font-size=10px word-wrap="break-word" width="250" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption>
+    <figcaption style="font-size: 10px; word-wrap: break-word;" width="250" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption>
   </div>
   <div>
     <img src="./assets/speakers/kristin.png" width="250" alt="Kristin Lennox" />
