@@ -81,5 +81,5 @@ Camera-ready versions for accepted archival papers should be uploaded to the sub
 A list of program committee members will be available on the workshop website.
 
 ## Contact
-For inquiries, please contact [uncertainlp@googlegroups.com](uncertainlp@googlegroups.com).
+For inquiries, please contact [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
