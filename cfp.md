@@ -56,8 +56,10 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 ## Submission Guidelines
 Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories:
+
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
+
 All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/UncertaiNLP) and should follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)). 
 
 We also invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
