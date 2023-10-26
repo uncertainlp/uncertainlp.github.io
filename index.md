@@ -64,21 +64,14 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/yarin.jpg" width="360" alt="Yarin Gal" /></td>
     <td><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></td>
     <td><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></td>
   </tr>
   <tr>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Yarin Gal (tentative; University of Oxford, UK)</figcaption></td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
   </tr>
 </table>
-
-**Yarin Gal** is an Associate Professor of Machine Learning at the University of Oxford Computer Science department, and head of the Oxford Applied and Theoretical Machine Learning Group (OATML). He is also 
-the Tutorial Fellow in Computer Science at Christ Church, Oxford, and Fellow at the Alan Turing Institute, the UK's national institute for data science. Prior to his move to Oxford, he was a Research Fellow 
-in Computer Science at St Catharine's College at the University of Cambridge. He obtained his PhD from the Cambridge machine learning group, working with Prof Zoubin Ghahramani and funded by the Google Europe 
-Doctoral Fellowship.
 
 **Kristin Lennox** has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
 
