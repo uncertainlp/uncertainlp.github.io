@@ -137,8 +137,6 @@ Call for Papers is available [here]({% link cfp.md %}).
 
 <!--- ## Workshop Organizers -->
 
-You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
-
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="./assets/organizers/wilker.jpeg" width="200" /></td>
@@ -169,6 +167,9 @@ You can reach the organizers by email to [uncertainlp@googlegroups.com](mailto:u
   </tr>
 </table>
 
+
+## Contact
+You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
 ## Anti-Harassment Policy
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
