@@ -10,7 +10,7 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - **First call for papers:** October 20, 2023
 - **Second call for papers:** November 15, 2023
 - **Third call for papers:** December 11 , 2023
-- **Submission deadline:** December 18, 2023
+- **Submission deadline:** ~~December 18, 2023~~ December 22, 2023
 - **Submission of already pre-reviewed ARR papers:** January 17, 2024
 - **Notification of acceptance:** January 20, 2024
 - **Camera-ready papers due:** January 30 2024
