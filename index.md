@@ -93,45 +93,45 @@ Call for Papers is available [here]({% link cfp.md %}).
 
 ## Program Committee
 - Luigi Acerbi (University of Helsinki, FI)
-- Caio Corro (Université Paris-Saclay, FR)
+<!-- - Caio Corro (Université Paris-Saclay, FR) -->
 - Mathias Creutz (University of Helsinki, FI)
 - Nico Daheim (TU Darmstadt, DE)
-- Greg Durrett (University of Texas, USA)
-- Raquel Fernandez (University Amsterdam, NL)
-- Adam Fisch (MIT, USA)
+<!-- - Greg Durrett (University of Texas, USA) -->
+<!-- - Raquel Fernandez (University Amsterdam, NL) -->
+<!-- - Adam Fisch (MIT, USA) -->
 - Stella Frank (Copenhagen University, DK)
-- Christian Hardmeier (ITU Copenhagen, DK)
+<!-- - Christian Hardmeier (ITU Copenhagen, DK) -->
 - Markus Heinonen (Aalto University, FI)
 - Evgenia Ilia (University of Amsterdam, NL)
 - Metod Jazbec (University of Amsterdam, NL)
 - Robin Jia (USC, USA) 
-- Nan-Jiang Jiang (Google, USA)
-- Anders Johannsen (Apple, UK)
+<!-- - Nan-Jiang Jiang (Google, USA) -->
+<!-- - Anders Johannsen (Apple, UK) -->
 - Gabriella Lapesa (GESIS, DE)
-- Haau-Sing Li (TU Darmstadt, DE)
+<!-- - Haau-Sing Li (TU Darmstadt, DE) -->
 - Putra Manggala (University of Amsterday, NL)
 - Timothee Mickus (University of Helsinki, FI)
 - Eric Nalisnick (Johns Hopkins University, USA)
 - Philip Schulz (Amazon, AU)
-- Tal Schuster (Google Research, USA)
-- Djamé Seddah (Inria & Université Paris Sorbonne, FR)
+<!-- - Tal Schuster (Google Research, USA) -->
+<!-- - Djamé Seddah (Inria & Université Paris Sorbonne, FR) -->
 - Rico Sennrich (University of Zurich, CH & University of Edinburgh, UK)
 - Natalie Schluter (Apple, DK)
 - Sebastian Schuster (Saarland University, DE)
 - Edwin Simpson (University of Bristol, UK)
-- Anders Søgaard (University of Copenhagen, DK)
+<!-- - Anders Søgaard (University of Copenhagen, DK) -->
 - Arno Solin (Aalto University, FI)
 - Dharmesh Tailor (University of Amsterdam, NL)
 - Aarne Talman (Silo.ai, FI)
 - Ivan Titov (University of Edinburgh, UK)
 - Teemu Vahtola (University of Helsinki, FI)
 - Raúl Vázquez (University of Helsinki, FI)
-- Andreas Vlachos (University of Cambridge)
+<!-- - Andreas Vlachos (University of Cambridge) -->
 - Sami Virpioja (Utopia Analytics & University of Helsinki, FI)
 - Xinpeng Wang (LMU Munich, DE)
 - Leon Weber-Genzel (LMU Munich, DE)
-- Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT)
-- Elaine Zosa (Silo.ai, FI)
+<!-- - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT) -->
+<!-- - Elaine Zosa (Silo.ai, FI) -->
 
 <img class="background-image" src="assets/organizers_header.png" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
 
