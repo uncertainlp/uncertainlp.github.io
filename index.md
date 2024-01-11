@@ -7,10 +7,10 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 *Tagline:* UncertaiNLP brings together researchers embracing sources of uncertainty from human language and NLP tools; harnessing them for improved NLP.
 
 ## Important Dates
-- **First call for papers:** October 20, 2023
-- **Second call for papers:** November 15, 2023
-- **Third call for papers:** December 11 , 2023
-- **Submission deadline:** ~~December 18, 2023~~ December 22, 2023
+- ~~**First call for papers:** October 20, 2023~~
+- ~~**Second call for papers:** November 15, 2023~~
+- ~~**Third call for papers:** December 11 , 2023~~
+- ~~**Submission deadline:** December 22, 2023~~
 - **Submission of already pre-reviewed ARR papers:** January 17, 2024
 - **Notification of acceptance:** January 20, 2024
 - **Camera-ready papers due:** January 30 2024
@@ -78,12 +78,14 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 **Mohit Bansal** is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals.
 
 ## Call for Papers
-Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories:
+~~Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories:~~
 
-- Full papers (up to 8 pages) for substantial contributions.
-- Short papers (up to 4 pages) for ongoing or preliminary work.
+- ~~Full papers (up to 8 pages) for substantial contributions.~~
+- ~~Short papers (up to 4 pages) for ongoing or preliminary work.~~
 
-All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/UncertaiNLP) and should follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)). 
+~~All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/UncertaiNLP) and should follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).~~
+
+We now accept submissions with already existing ACL Rolling Reviews (ARR) via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/UncertaiNLP_ARR_Commitment), with the deadline January 18 AoE. These submissions must have been reviewed by ARR before, which will be used in our evaluation, and which must be linked to our system through the **paper link** field available in the OpenReview form. Please make sure to also follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
 
 We also invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
 
