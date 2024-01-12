@@ -66,16 +66,25 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   <tr>
     <td><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></td>
     <td><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></td>
+    <td><img src="./assets/speakers/clara.jpg" width="360" alt="Clara Meister" /></td>
+    <td><img src="./assets/speakers/chryssa.jpg" width="360" alt="Chrysoula Zerva" /></td>
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Clara Meister (ETH Zürich, Switzerland)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Chrysoula Zerva (Instituto Superior Tecnico, Portugal)</figcaption> </td>
   </tr>
 </table>
 
 **Kristin Lennox** has more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Kristin Lennox's career has included data science applications in aerospace, automotive engineering, chemical engineering, materials science, process engineering, oil and gas, public infrastructure, bioinformatics, software development, and manufacturing. She has worked with many varieties of data ranging from large publicly available datasets to small scale designed experiments and specializes in combining disparate data types and sources to solve complex problems. Dr. Lennox's recent professional experience has focused on design of artificial intelligence (AI) systems intended to act in partnership with people. Since joining Exponent, she has been studying safety benefits of advanced driver assistance systems (ADAS) and automated driving.
 
 **Mohit Bansal** is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals.
+
+**Clara Meister** is a PhD student in Computer Science with Prof. Ryan Cotterell at ETH Zürich, supported by a Google PhD Fellowship. She is passionate about the general application of statistics and information theory to natural language processing. A large portion of her research in the last years has been on natural language generation—specifically, on decoding methods for probabilistic models. Her additional interests within the field of natural language generation include evaluation metrics and the incorporation of uncertainty into decoding methods.
+
+**Chrysoula (Chryssa) Zerva** is an Assistant Professor in Artificial Intelligence at the Instituto Superior Tecnico in Lisbon, Portugal. She is also a member of LUMLIS, the Lisbon ELLIS unit. She obtained her Ph.D. in 2019 from the University of Manchester working on “Automated identification of textual uncertainty” under the supervision of Prof. Sophia Ananiadou. She was subsequently awarded the EPSRC doctoral prize fellowship to study (mis)information propagation in health and science. 
+In 2021, she joined the Instituto de Telecomunicações in Lisbon as a post-doc for the DeepSPIN project under the supervision of Prof. André Martins and worked on a range of machine learning and NLP related topics including uncertainty quantification, machine translation and quality estimation.
 
 ## Call for Papers
 ~~Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories:~~
