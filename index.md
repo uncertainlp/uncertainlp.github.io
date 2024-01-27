@@ -114,7 +114,7 @@ Call for Papers is available [here]({% link cfp.md %}).
 <!-- - Christian Hardmeier (ITU Copenhagen, DK) -->
 - Markus Heinonen (Aalto University, FI)
 - Evgenia Ilia (University of Amsterdam, NL)
-- Metod Jazbec (University of Amsterdam, NL)
+<!-- - Metod Jazbec (University of Amsterdam, NL)  -->
 - Robin Jia (USC, USA) 
 <!-- - Nan-Jiang Jiang (Google, USA) -->
 <!-- - Anders Johannsen (Apple, UK) -->
@@ -141,6 +141,7 @@ Call for Papers is available [here]({% link cfp.md %}).
 - Sami Virpioja (Utopia Analytics & University of Helsinki, FI)
 - Xinpeng Wang (LMU Munich, DE)
 - Leon Weber-Genzel (LMU Munich, DE)
+- Roman Yangarber (University of Helsinki, FI)
 <!-- - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT) -->
 <!-- - Elaine Zosa (Silo.ai, FI) -->
 
