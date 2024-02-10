@@ -66,12 +66,12 @@ The exact schedule is given below:
 - 09:00 - 09:10: Opening remarks
 - 09:10 - 09:55: Invited Talk - Chrysoula Zerva
 - 09:55 - 10:15: Paper spotlight session 1
-- 10:15 - 10:30: Lightening paper presentations 1
+- 10:15 - 10:30: Lightening paper presentations
 - 10:30 - 11:00: Coffee Break
 - 11:00 - 12:15: In-person poster session (Corinthia St George's Bay, Terrace Suite)
 - 12:15 - 13:15: Lunch break
 - 13:15 - 14:00: Invited Talk - Clara Meister
-- 14:00 - 15:30: Lightening paper presentations 2
+- 14:00 - 15:30: Paper presentations
 - 15:30 - 16:00: Coffee Break
 - 16:00 - 16:15: Paper spotlight session 2
 - 16:15 - 16:30: Paper spotlight session 3
