@@ -11,7 +11,7 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - ~~**Second call for papers:** November 15, 2023~~
 - ~~**Third call for papers:** December 11 , 2023~~
 - ~~**Submission deadline:** December 22, 2023~~
-- ~~**Submission of already pre-reviewed ARR papers:** January 17, 2024~~
+- ~~**Submission of already pre-reviewed ARR papers:** January 20, 2024~~
 - ~~**Notification of acceptance:** January 20, 2024~~
 - ~~**Camera-ready papers due:** January 30 2024~~
 - ~~**Workshop date:** March 22, 2024~~
@@ -91,7 +91,7 @@ The exact schedule is given below:
   </tr>
   <tr>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Kristin Lennox (Exponent, US)</figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td>
+    <!--  <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Mohit Bansal (UNC Chapel Hill, US)</figcaption> </td> -->
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Clara Meister (ETH Zürich, Switzerland)</figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Chrysoula Zerva (Instituto Superior Tecnico, Portugal)</figcaption> </td>
   </tr>
@@ -135,7 +135,7 @@ Call for Papers is available [here]({% link cfp.md %}).
 <!-- - Christian Hardmeier (ITU Copenhagen, DK) -->
 - Markus Heinonen (Aalto University, FI)
 - Evgenia Ilia (University of Amsterdam, NL)
-- Metod Jazbec (University of Amsterdam, NL)
+<!-- - Metod Jazbec (University of Amsterdam, NL)  -->
 - Robin Jia (USC, USA) 
 <!-- - Nan-Jiang Jiang (Google, USA) -->
 <!-- - Anders Johannsen (Apple, UK) -->
@@ -162,6 +162,7 @@ Call for Papers is available [here]({% link cfp.md %}).
 - Sami Virpioja (Utopia Analytics & University of Helsinki, FI)
 - Xinpeng Wang (LMU Munich, DE)
 - Leon Weber-Genzel (LMU Munich, DE)
+- Roman Yangarber (University of Helsinki, FI)
 <!-- - Chrysoula Zerva (Instituto de Telecomunicações & Instituto Superior Técnico, PT) -->
 <!-- - Elaine Zosa (Silo.ai, FI) -->
 
