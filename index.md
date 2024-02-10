@@ -14,7 +14,7 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - ~~**Submission of already pre-reviewed ARR papers:** January 20, 2024~~
 - ~~**Notification of acceptance:** January 20, 2024~~
 - ~~**Camera-ready papers due:** January 30 2024~~
-- ~~**Workshop date:** March 22, 2024~~
+- **Workshop date:** March 22, 2024
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -60,7 +60,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 ### Workshop Schedule 
 
-The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href="https://maps.app.goo.gl/Mq8zQciGEe6wnnDZ8">Corinthia St Geroge's Bay hotel</a>.
+The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href="https://maps.app.goo.gl/Mq8zQciGEe6wnnDZ8">Corinthia St George's Bay hotel</a>.
 The exact schedule is given below:
 
 - 09:00 - 09:10: Opening remarks
