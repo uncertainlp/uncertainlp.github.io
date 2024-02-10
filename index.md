@@ -11,10 +11,10 @@ Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 
 - ~~**Second call for papers:** November 15, 2023~~
 - ~~**Third call for papers:** December 11 , 2023~~
 - ~~**Submission deadline:** December 22, 2023~~
-- **Submission of already pre-reviewed ARR papers:** January 17, 2024
-- **Notification of acceptance:** January 20, 2024
-- **Camera-ready papers due:** January 30 2024
-- **Workshop date:** March 21 or 22, 2024
+- ~~**Submission of already pre-reviewed ARR papers:** January 17, 2024~~
+- ~~**Notification of acceptance:** January 20, 2024~~
+- ~~**Camera-ready papers due:** January 30 2024~~
+- ~~**Workshop date:** March 22, 2024~~
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -58,6 +58,26 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
 
+### Workshop Schedule 
+
+The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href="https://maps.app.goo.gl/Mq8zQciGEe6wnnDZ8">Corinthia St Geroge's Bay hotel</a>.
+The exact schedule is given below:
+
+- 09:00 - 09:10: Opening remarks
+- 09:10 - 09:55: Invited Talk - Chrysoula Zerva
+- 09:55 - 10:15: Paper spotlight session 1
+- 10:15 - 10:30: Lightening paper presentations 1
+- 10:30 - 11:00: Coffee Break
+- 11:00 - 12:15: In-person poster session (Corinthia St George's Bay, Terrace Suite)
+- 12:15 - 13:15: Lunch break
+- 13:15 - 14:00: Invited Talk - Clara Meister
+- 14:00 - 15:30: Lightening paper presentations 2
+- 15:30 - 16:00: Coffee Break
+- 16:00 - 16:15: Paper spotlight session 2
+- 16:15 - 16:30: Paper spotlight session 3
+- 16:30 - 17:15: Invited talk - Kristin Lennox
+- 17:15 - 17:30: Closing remarks
+
 <img class="background-image" src="assets/speakers_header.png" alt="Invited Speakers" style='width: 100%; margin: auto;'/>
  
 <!-- ## Invited Speakers -->
@@ -65,7 +85,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></td>
-    <td><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></td>
+    <!--  <td><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></td> -->
     <td><img src="./assets/speakers/clara.jpg" width="360" alt="Clara Meister" /></td>
     <td><img src="./assets/speakers/chryssa.jpg" width="360" alt="Chrysoula Zerva" /></td>
   </tr>
@@ -79,12 +99,13 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 **Kristin Lennox** is a consultant at Exponent with more than ten years of experience applying statistics, machine learning, and operations research techniques to scientific and engineering problems. Dr. Lennox received her Ph.D. in statistics from Texas A&M University in 2010. She then joined Lawrence Livermore National Laboratory, where she cofounded and served as the first director of their internal statistical consulting service. After leaving the laboratory she spent several years in the software industry with a focus on AI in industrial settings, and she currently serves as a consultant regarding statistics and AI implementation for applications in many areas, including environmental science, automotive and consumer product risk, and software. Her expertise includes experimental design, analysis of computer experiments, and risk assessment in high consequence environments. Dr. Lennox’s recent professional experience has focused on methods to characterize safety benefits of advanced driver assistance systems (ADAS) and automated driving. Dr. Lennox is passionate about statistics and AI education and has created a series of videos for technical and lay audiences on these topics.
 
-**Mohit Bansal** is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals.
+<!-- **Mohit Bansal** is the John R. & Louise S. Parker Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his PhD from UC Berkeley in 2013 (where he was advised by Dan Klein) and his BTech from IIT Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, language generation and Q&A/dialogue, and interpretable and generalizable deep learning. He is a recipient of IIT Kanpur Young Alumnus Award,  DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023 and INLG 2022 conferences. His service includes ACL Executive Committee, ACM Doctoral Dissertation Award Committee, CoNLL Program Co-Chair, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals. -->
 
 **Clara Meister** is a PhD student in Computer Science with Prof. Ryan Cotterell at ETH Zürich, supported by a Google PhD Fellowship. She is passionate about the general application of statistics and information theory to natural language processing. A large portion of her research in the last years has been on natural language generation—specifically, on decoding methods for probabilistic models. Her additional interests within the field of natural language generation include evaluation metrics and the incorporation of uncertainty into decoding methods.
 
 **Chrysoula (Chryssa) Zerva** is an Assistant Professor in Artificial Intelligence at the Instituto Superior Tecnico in Lisbon, Portugal. She is also a member of LUMLIS, the Lisbon ELLIS unit. She obtained her Ph.D. in 2019 from the University of Manchester working on “Automated identification of textual uncertainty” under the supervision of Prof. Sophia Ananiadou. She was subsequently awarded the EPSRC doctoral prize fellowship to study (mis)information propagation in health and science. 
 In 2021, she joined the Instituto de Telecomunicações in Lisbon as a post-doc for the DeepSPIN project under the supervision of Prof. André Martins and worked on a range of machine learning and NLP related topics including uncertainty quantification, machine translation and quality estimation.
+Beyond core research, she is interested in dissemination of science to the public and keen on promoting women's participation in research and science; she has previously presented in or co-organised events such as the Pint of Science, Women in Localisation and Greek Girls Code.
 
 ## Call for Papers
 ~~Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories:~~
