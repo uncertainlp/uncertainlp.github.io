@@ -64,7 +64,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 ### Workshop Schedule 
 
 The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href="https://maps.app.goo.gl/Mq8zQciGEe6wnnDZ8">Corinthia St George's Bay hotel</a>.
-The exact schedule is given below:
+The [detailed program is available here](/program) and an overview of the schedule is given below:
 
 - 09:00 - 09:10: Opening remarks
 - 09:10 - 09:55: Invited Talk - Chrysoula Zerva
