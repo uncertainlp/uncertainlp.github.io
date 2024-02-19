@@ -2,8 +2,8 @@
 layout: default
 ---
 <!-- # Program of the First Workshop on Uncertainty-Aware NLP @EACL 2024 -->
-/ [HOME](/) / [CALL FOR PAPERS](/#call-for-papers) / ACCEPTED PAPERS / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / [PROGRAM](/#program) / [CONTACT](https://uncertainlp.github.io/#contact) /
-
+<!-- / [HOME](/) / [CALL FOR PAPERS](/#call-for-papers) / ACCEPTED PAPERS / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / [PROGRAM](/#program) / [CONTACT](https://uncertainlp.github.io/#contact) / -->
+ 
 * *"Calibration-Tuning: Teaching Large Language Models to Know What They Don’t Know"*. Sanyam Kapoor, Nate Gruver, Manley Roberts, Arka Pal, Samuel Dooley, Micah Goldblum and Andrew Gordon Wilson
 
 * *"Context Tuning for Retrieval Augmented Generation"*. Raviteja Anantha and Danil Vodianik.

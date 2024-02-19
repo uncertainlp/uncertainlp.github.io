@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- # First Workshop on Uncertainty-Aware NLP @EACL 2024 -->
-/ HOME / [CALL FOR PAPERS](/#call-for-papers) / [ACCEPTED PAPERS](/accepted-papers) / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / [PROGRAM](/program) / [CONTACT](https://uncertainlp.github.io/#contact) /
+<!-- / HOME / [CALL FOR PAPERS](/#call-for-papers) / [ACCEPTED PAPERS](/accepted-papers) / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / [PROGRAM](/program) / [CONTACT](https://uncertainlp.github.io/#contact) / -->
 
 
 Welcome to the website of the **UncertaiNLP** workshop to be held at [EACL 2024 in Malta](https://2024.eacl.org/).

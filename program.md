@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- # Program of the First Workshop on Uncertainty-Aware NLP @EACL 2024 -->
-/ [HOME](/) / [CALL FOR PAPERS](/#call-for-papers) / [ACCEPTED PAPERS](/accepted-papers) / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / PROGRAM / [CONTACT](https://uncertainlp.github.io/#contact) /
+<!-- / [HOME](/) / [CALL FOR PAPERS](/#call-for-papers) / [ACCEPTED PAPERS](/accepted-papers) / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / PROGRAM / [CONTACT](https://uncertainlp.github.io/#contact) / -->
 
 The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href="https://maps.app.goo.gl/Mq8zQciGEe6wnnDZ8">Corinthia St George's Bay hotel</a>. Here is the detailed program of the workshop.
 
