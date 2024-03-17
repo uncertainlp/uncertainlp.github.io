@@ -89,7 +89,7 @@ The [detailed program is available here](/program) and an overview of the schedu
   <tr>
     <td><img src="./assets/speakers/kristin.png" width="360" alt="Kristin Lennox" /></td>
     <!--  <td><img src="./assets/speakers/mohit.png" width="360" alt="Mohit Bansal" /></td> -->
-    <td><img src="./assets/speakers/elias.jpg" width="360" alt="Elias Stengel-Eskin" /></td>
+    <td><img src="https://esteng.github.io/assets/img/headshot-1400.webp" width="360" alt="Elias Stengel-Eskin" /></td>
     <td><img src="./assets/speakers/chryssa.jpg" width="360" alt="Chrysoula Zerva" /></td>
   </tr>
   <tr>
