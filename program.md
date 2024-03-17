@@ -25,7 +25,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 - 10:30 - 11:00: **Coffee Break**
 - 11:00 - 12:15: **In-person poster session** (Corinthia St George's Bay, Terrace Suite)
 - 12:15 - 13:15: **Lunch break**
-- 13:15 - 14:00: **Invited Talk - Elias Stengel-Eskin**
+- 13:15 - 14:00: **Invited Talk - Elias Stengel-Eskin** *Confidence-based Rephrasing, Refinement, and Selection*  
 - 14:00 - 15:30: **Presentation Session 2**
   - *Optimizing Relation Extraction in Medical Texts through Active Learning: A Comparative Analysis of Trade-offs*, Siting Liang, Pablo Valdunciel Sánchez and Daniel Sonntag
   - *Efficiently Acquiring Human Feedback with Bayesian Deep Learning*, Haishuo Fang, Jeet Gor and Edwin Simpson
