@@ -10,7 +10,8 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 
 
 - 09:00 - 09:10: **Opening remarks**
-- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**
+- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**: *Uncertainty in NLP: Quantification, interpretation and evaluation*
+  Abstract: As the availability (and size) of language models keeps increasing, so do their applications to different tasks, rendering them ubiquitous in modern society. This in turn, brings forward the question of reliability. We know models don’t always know what they don’t knowand hence being able to quantify the uncertainty over their predictions is a key step in the path towards reliability. But how can we estimate uncertainty when we have multiple sources of it, and frequently no or limited access to the parameters of the models? And how do we know if we can trust our uncertainty estimations? In this talk I will discuss uncertainty quantification in NLP, emphasising its interpretation and evaluation. I will focus on generation and evaluation tasks, using machine translation as the main paradigm.
 - 09:55 - 10:15: **Presentation Session 1**
   - *Aligning Uncertainty: Leveraging LLMs to Analyze Uncertainty Transfer in Text Summarization*, Zahra Kolagar and Alessandra Zarcone
 - 10:15 - 10:30: **Lightening paper presentations**
