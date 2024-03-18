@@ -10,7 +10,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 
 
 - 09:00 - 09:10: **Opening remarks**
-- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**: *Uncertainty in NLP: Quantification, interpretation and evaluation*
+- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**: *Uncertainty in NLP: Quantification, interpretation and evaluation*.
   Abstract: As the availability (and size) of language models keeps increasing, so do their applications to different tasks, rendering them ubiquitous in modern society. This in turn, brings forward the question of reliability. We know models don’t always know what they don’t knowand hence being able to quantify the uncertainty over their predictions is a key step in the path towards reliability. But how can we estimate uncertainty when we have multiple sources of it, and frequently no or limited access to the parameters of the models? And how do we know if we can trust our uncertainty estimations? In this talk I will discuss uncertainty quantification in NLP, emphasising its interpretation and evaluation. I will focus on generation and evaluation tasks, using machine translation as the main paradigm.
 - 09:55 - 10:15: **Presentation Session 1**
   - *Aligning Uncertainty: Leveraging LLMs to Analyze Uncertainty Transfer in Text Summarization*, Zahra Kolagar and Alessandra Zarcone
@@ -26,7 +26,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 - 10:30 - 11:00: **Coffee Break**
 - 11:00 - 12:15: **In-person poster session** (Corinthia St George's Bay, Terrace Suite)
 - 12:15 - 13:15: **Lunch break**
-- 13:15 - 14:00: **Invited Talk - Elias Stengel-Eskin** *Confidence-based Rephrasing, Refinement, and Selection*  
+- 13:15 - 14:00: **Invited Talk - Elias Stengel-Eskin** *Confidence-based Rephrasing, Refinement, and Selection*. Abstract: Many kinds of NLP systems and tasks can benefit from calibrated confidence scores -- this talk will showcase several ways in which we can use confidence to improve performance across a variety of settings. After making the case for calibration in one such setting (semantic parsing) and documenting the calibration of existing models, I will present results on using calibrated confidence scores to trigger human interactions, improving the balance between a system's safety and usability. Specifically, I will discuss DidYouMean, a method for rephrasing and answering difficult parsing queries. Moving to a visually-grounded setting, I will then present RepARe, our recent work in which we use confidence to select rephrased and augmented questions for VQA. Finally, I will share a pair of recent papers in which confidence shapes discussions between multiple LLM agents, touching on our group's prior work on annotator disagreement and diverse answers.  
 - 14:00 - 15:30: **Presentation Session 2**
   - *Optimizing Relation Extraction in Medical Texts through Active Learning: A Comparative Analysis of Trade-offs*, Siting Liang, Pablo Valdunciel Sánchez and Daniel Sonntag
   - *Efficiently Acquiring Human Feedback with Bayesian Deep Learning*, Haishuo Fang, Jeet Gor and Edwin Simpson
