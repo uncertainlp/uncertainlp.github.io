@@ -67,7 +67,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 The [detailed program is available here](/program) and an overview of the schedule is given below:
 
 - 09:00 - 09:10: Opening remarks
-- 09:10 - 09:55: Invited Talk - Chrysoula Zerva
+- 09:10 - 09:55: Invited Talk - Chrysoula Zerva: *Uncertainty in NLP: Quantification, interpretation and evaluation*
 - 09:55 - 10:15: Paper spotlight session 1
 - 10:15 - 10:30: Lightening paper presentations
 - 10:30 - 11:00: Coffee Break
