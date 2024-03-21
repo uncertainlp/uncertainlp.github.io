@@ -37,6 +37,6 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 - 16:00 - 16:30: **Presentation Session 3**
   - *How Does Beam Search improve Span-Level Confidence Estimation in Generati- ve Sequence Labeling?* Kazuma Hashimoto, Iftekhar Naim and Karthik Raman
   - *Consistent Joint Decision-Making with Heterogeneous Learning Models*, Hossein Rajaby Faghihi and Parisa Kordjamshidi
-- 16:30 - 17:15: **Invited talk - Kristin Lennox**
+- 16:30 - 17:15: **Invited talk - Kristin Lennox** (and DALL-E 3) *Mathemagic! The non-mystical nature of mathematics and what it means for you*. Abstract: Mathematical modeling of real-world phenomena is both ubiquitous in modern times and a tradition with millennia of history. This talk provides a (very) brief overview of mathematical history, beginning with the philosophy of Pythagoras through the mathematical crises of the 19th century that ultimately led to the modern division between “pure” and “applied” mathematics. Through this historical lens, we consider why mathematical modeling of uncertainty is uniquely challenging and also how these challenges have been addressed in the field of statistics. To conclude, we will provide some suggestions from statistical practice that are also likely to be relevant to the development of uncertainty methods and metrics for natural language.
 - 17:15 - 17:30: **Closing remarks**
 
