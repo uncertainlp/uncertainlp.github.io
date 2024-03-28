@@ -10,7 +10,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 
 
 - 09:00 - 09:10: **Opening remarks**
-- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**: *Uncertainty in NLP: Quantification, interpretation and evaluation*.
+- 09:10 - 09:55: **Invited Talk - Chrysoula Zerva**: [*Uncertainty in NLP: Quantification, interpretation and evaluation*.](/slides/UncertaiNLP-Chrysoula-Zerva.pdf)
   - **Abstract**: As the availability (and size) of language models keeps increasing, so do their applications to different tasks, rendering them ubiquitous in modern society. This in turn, brings forward the question of reliability. We know models don’t always know what they don’t knowand hence being able to quantify the uncertainty over their predictions is a key step in the path towards reliability. But how can we estimate uncertainty when we have multiple sources of it, and frequently no or limited access to the parameters of the models? And how do we know if we can trust our uncertainty estimations? In this talk I will discuss uncertainty quantification in NLP, emphasising its interpretation and evaluation. I will focus on generation and evaluation tasks, using machine translation as the main paradigm.
 - 09:55 - 10:15: **Presentation Session 1**
   - [*Aligning Uncertainty: Leveraging LLMs to Analyze Uncertainty Transfer in Text Summarization*](/slides/UncertaiNLP-Zahra-Kolagar.pdf), Zahra Kolagar and Alessandra Zarcone
@@ -32,7 +32,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
   - *Optimizing Relation Extraction in Medical Texts through Active Learning: A Comparative Analysis of Trade-offs*, Siting Liang, Pablo Valdunciel Sánchez and Daniel Sonntag
   - *Efficiently Acquiring Human Feedback with Bayesian Deep Learning*, Haishuo Fang, Jeet Gor and Edwin Simpson
   - *Don’t Blame the Data, Blame the Model: Understanding Noise and Bias When Learning from Subjective Annotations*, Abhishek Anand, Negar Mokhberian, Prathyusha Naresh Kumar, Anweasha Saha, Zihao He, Ashwin Rao, Fred Morstatter and Kristina Lerman
-  - *Teaching Probabilistic Logical Reasoning to Transformers*, Aliakbar Nafar, K. Brent Venable and Parisa Kordjamshidi
+  - [*Teaching Probabilistic Logical Reasoning to Transformers*](/slides/UncertaiNLP-Aliakbar-Nafar.pdf), Aliakbar Nafar, K. Brent Venable and Parisa Kordjamshidi
   - *Calibration-Tuning: Teaching Large Language Models to Know What They Don’t Know*, Sanyam Kapoor, Nate Gruver, Manley Roberts, Arka Pal, Samuel Dooley, Micah Goldblum and Andrew Gordon Wilson
 - 15:30 - 16:00: Coffee Break
 - 16:00 - 16:30: **Presentation Session 3**
