@@ -31,7 +31,7 @@ The workshop will take place March 22, 2024 at the Bastion 2 room of the <a href
 - 14:00 - 15:30: **Presentation Session 2**
   - *Optimizing Relation Extraction in Medical Texts through Active Learning: A Comparative Analysis of Trade-offs*, Siting Liang, Pablo Valdunciel Sánchez and Daniel Sonntag
   - *Efficiently Acquiring Human Feedback with Bayesian Deep Learning*, Haishuo Fang, Jeet Gor and Edwin Simpson
-  - *Don’t Blame the Data, Blame the Model: Understanding Noise and Bias When Learning from Subjective Annotations*, Abhishek Anand, Negar Mokhberian, Prathyusha Naresh Kumar, Anweasha Saha, Zihao He, Ashwin Rao, Fred Morstatter and Kristina Lerman
+  - [*Don’t Blame the Data, Blame the Model: Understanding Noise and Bias When Learning from Subjective Annotations*](/slides/UncertaiNLP-Abhishek-Anand.pdf), Abhishek Anand, Negar Mokhberian, Prathyusha Naresh Kumar, Anweasha Saha, Zihao He, Ashwin Rao, Fred Morstatter and Kristina Lerman
   - [*Teaching Probabilistic Logical Reasoning to Transformers*](/slides/UncertaiNLP-Aliakbar-Nafar.pdf), Aliakbar Nafar, K. Brent Venable and Parisa Kordjamshidi
   - *Calibration-Tuning: Teaching Large Language Models to Know What They Don’t Know*, Sanyam Kapoor, Nate Gruver, Manley Roberts, Arka Pal, Samuel Dooley, Micah Goldblum and Andrew Gordon Wilson
 - 15:30 - 16:00: Coffee Break
