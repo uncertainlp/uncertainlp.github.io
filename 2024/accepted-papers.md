@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: 2024
+permalink: /2024/accepted-papers
 ---
 <!-- # Program of the First Workshop on Uncertainty-Aware NLP @EACL 2024 -->
 <!-- / [HOME](/) / [CALL FOR PAPERS](/#call-for-papers) / ACCEPTED PAPERS / [PROGRAM COMMITTEE](https://uncertainlp.github.io/#program-committee) / [PROGRAM](/#program) / [CONTACT](https://uncertainlp.github.io/#contact) / -->

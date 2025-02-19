@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: 2024
+permalink: /2024/cfp
 ---
 <!-- # First Call for papers: UncertaiNLP - First Workshop on Uncertainty-Aware NLP @ EACL 2024, March 21 or 22, 2024 -->
 # First Call for papers: UncertaiNLP - First Workshop on Uncertainty-Aware NLP @ EACL 2024, March 21 or 22, 2024
