@@ -29,7 +29,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 - *Documenting sources of uncertainty*
   - Theoretical underpinnings of linguistic sources of variation
-  - Data collection (e.g., to to document linguistic variability, multiple perspectives, etc.)
+  - Data collection (e.g., to document linguistic variability, multiple perspectives, etc.)
  
 - *Modeling*
   - Explicit representation of model uncertainty (e.g., parameter and/or hypothesis uncertainty, Bayesian NNs in NLU/NLG, verbalised uncertainty, feature density, external calibration modules)
