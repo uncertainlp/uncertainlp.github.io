@@ -10,22 +10,21 @@ Welcome to the website of the second **UncertaiNLP** workshop to be held at [EMN
 Previous editions of UncertaiNLP: [2024](/2024).
 
 ## Important Dates
-- **First call for papers:** TBD
-- **Second call for papers:** TBD
-- **Third call for papers:** TBD
-- **Submission deadline:** TBD
-- **Submission of already pre-reviewed ARR papers:** TBD
-- **Notification of acceptance:** TBD
-- **Camera-ready papers due:** TBD
-- **Workshop date:** TBD
+- **First call for papers:** June 6th, 2025
+- **Second call for papers:** July 1st, 2025
+- **Third call for papers:** August 1st, 2025
+- **Submission deadline:** August 8th, 2025
+- **Submission of already pre-reviewed ARR papers:** August 22nd, 2025
+- **Notification of acceptance:** September 10th, 2025
+- **Camera-ready papers due:** September 14th, 2025
+- **Workshop date:** Early November, 2025 (exact date TBD)
 
-<!-- All deadlines are 11:59pm UTC-12 ("anywhere on earth"). -->
+All deadlines are 11:59pm UTC-12 ("anywhere on earth"). 
 
 ## Workshop Topic and Content
 
 Human languages are inherently ambiguous and understanding language input is subject to interpretation and complex contextual dependencies. Nevertheless, the main body of research in NLP is still based on the 
-assumption that ambiguities and other types of underspecification can and have to be resolved. This workshop will provide a platform for research that embraces variability in human language and aims to 
-represent and evaluate the uncertainty that arises from it, and from modeling tools themselves.
+assumption that ambiguities and other types of underspecification can and have to be resolved. This workshop will provide a platform for research that embraces variability in human language and aims to represent and evaluate the uncertainty that arises from it, and from modeling tools themselves.
 
 ### Workshop Topics
 
@@ -78,6 +77,23 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   </tr>
 </table>
 
+## Call for Papers
+Authors are invited to submit by August 8th original and unpublished research papers in the following categories:
+
+- Full papers (up to 8 pages) for substantial contributions.
+- Short papers (up to 4 pages) for ongoing or preliminary work.
+
+All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/UncertaiNLP) and should follow the EMNLP 2025 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
+
+We now accept submissions with already existing ACL Rolling Reviews (ARR) via [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/UncertaiNLP_ARR_Commitment), with the deadline August 22nd AoE. These submissions must have been reviewed by ARR before, which will be used in our evaluation, and which must be linked to our system through the **paper link** field available in the OpenReview form. Please make sure to also follow the EMNLP 2025 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
+
+All submissions are archival, but we also invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
+
+Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
+
+Call for Papers is available [here](/cfp).
+
+
 ## Program Committee
 - Luigi Acerbi (University of Helsinki, FI)
 - Roee Aharoni (Google Research, IL)
@@ -128,6 +144,9 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   .organizer-table img {
     object-fit: cover;
   }
+  .sponsor-table tr td {
+    border: none;
+  }
 </style>
 
 <table class="organizer-table" cellspacing="0" cellpadding="0">
@@ -166,6 +185,17 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 ## Contact
 You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
+
+## Sponsors
+We would like to thank [UTTER](https://he-utter.eu) and [CRAI](https://centerforresponsible.ai) for their support of this workshop.
+<table class="sponsor-table" cellspacing="0" cellpadding="0" style="margin-top: 20px;">
+  <tr>
+    <td><img height=75px src="./assets/sponsors/eu.png" /></td>
+    <td><a href="https://he-utter.eu"><img height=75px src="./assets/sponsors/utter.png" /></a></td>
+    <td><a href="https://centerforresponsible.ai"><img height=75px src="./assets/sponsors/crai.png" /></a></td>
+  </tr>
+</table>
+
 
 ## Anti-Harassment Policy
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
