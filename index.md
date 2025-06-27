@@ -17,7 +17,7 @@ Previous editions of UncertaiNLP: [2024](/2024).
 - **Submission of already pre-reviewed ARR papers:** August 22nd, 2025
 - **Notification of acceptance:** September 10th, 2025
 - **Camera-ready papers due:** September 14th, 2025
-- **Workshop date:** Early November, 2025 (exact date TBD)
+- **Workshop date:** November 9th, 2025
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth"). 
 
