@@ -62,6 +62,13 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
 
+- *Hallucinations*
+  - Theoretical and empirical study of hallucination phenomena in NLU/NLG
+  - Describing, formalising, categorising hallucination phenomena  
+  - Methods for detecting and quantifying hallucinations
+  - Mitigation techniques including uncertainty-aware generation, retrieval-augmented methods, and controllable generation
+  - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
+
 <img class="background-image" src="/assets/speakers_header.png" alt="Invited Speakers" id="invited-speakers" style='width: 100%; margin: auto;'/>
  
 <table cellspacing="0" cellpadding="0">
@@ -97,6 +104,8 @@ Call for Papers is available [here](/cfp).
 ## Program Committee
 - Luigi Acerbi (University of Helsinki, FI)
 - Roee Aharoni (Google Research, IL)
+- Joris Baan (University of Amsterdam, NL)
+- Samuel Barry (Mistral AI, US)
 - Alexandra Bodrova (Princeton University, US)
 - Margarida M. Campos (Instituto de Telecomunicações, Instituto Superior Técnico, PT)
 - Julius Cheng (University of Cambridge, UK)
@@ -111,6 +120,7 @@ Call for Papers is available [here](/cfp).
 - Yuu Jinnai (CyberAgent, Inc., JP)
 - Haau-Sing Li (Technische Universität Darmstadt, DE)
 - Timothee Mickus (University of Helsinki, FI)
+- Laura Perez (University of Edinburgh, UK)
 - Natalie Schluter (Technical University of Denmark, DK)
 - Philip Schulz (Amazon, AU)
 - Sebastian Schuster (University College London, University of London, UK)

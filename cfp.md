@@ -54,6 +54,13 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Calibration to interpretable notions of uncertainty (e.g., calibration error, conformal prediction)
   - Evaluation of epistemic uncertainty
 
+- *Hallucinations*
+  - Theoretical and empirical study of hallucination phenomena in NLU/NLG
+  - Describing, formalising, categorising hallucination phenomena  
+  - Methods for detecting and quantifying hallucinations
+  - Mitigation techniques including uncertainty-aware generation, retrieval-augmented methods, and controllable generation
+  - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
+
 ## Submission Guidelines
 Authors are invited to submit by August 8th original and unpublished research papers in the following categories:
 
