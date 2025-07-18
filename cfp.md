@@ -5,7 +5,7 @@ layout: 2025
 # Call for papers: UncertaiNLP - Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025
 Website: [https://uncertainlp.github.io/](https://uncertainlp.github.io/)
 
-**Update 18/07:** We have moved the submission deadlines and subsequent review schedule forward by a week! 
+**Update 18/07:** We have extended the submission deadlines and the subsequent review schedule by a week! 
 
 We invite submissions to the second edition of the UncertaiNLP workshop on Uncertainty-Aware NLP, to be held at EMNLP 2025.
 

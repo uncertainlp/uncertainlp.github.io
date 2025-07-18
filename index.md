@@ -9,7 +9,7 @@ Welcome to the website of the second **UncertaiNLP** workshop to be held at [EMN
 
 Previous editions of UncertaiNLP: [2024](/2024).
 
-**Update 18/07:** We have moved the submission deadlines and subsequent review schedule forward by a week! 
+**Update 18/07:** We have extended the submission deadlines and the subsequent review schedule by a week! 
 
 ## Important Dates
 - **First call for papers:** June 6th, 2025
