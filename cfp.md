@@ -2,17 +2,18 @@
 layout: 2025
 ---
 
-# First Call for papers: UncertaiNLP - Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025
+# Call for papers: UncertaiNLP - Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025
 Website: [https://uncertainlp.github.io/](https://uncertainlp.github.io/)
+
+**Update 18/07:** We have moved the submission deadlines and subsequent review schedule forward by a week! 
 
 We invite submissions to the second edition of the UncertaiNLP workshop on Uncertainty-Aware NLP, to be held at EMNLP 2025.
 
-
 ## Important Dates
-- **Submission deadline:** August 8th, 2025
-- **Submission of already pre-reviewed ARR papers:** August 22nd, 2025
-- **Notification of acceptance:** September 10th, 2025
-- **Camera-ready papers due:** September 14th, 2025
+- **Submission deadline:** ~~August 8th, 2025~~ August 15th, 2025
+- **Submission of already pre-reviewed ARR papers:** ~~August 22nd, 2025~~ August 29th, 2025
+- **Notification of acceptance:** ~~September 10th, 2025~~ September 17th, 2025
+- **Camera-ready papers due:** ~~September 14th, 2025~~ September 21st, 2025
 - **Workshop date:** November 9th, 2025
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
@@ -62,14 +63,14 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
 ## Submission Guidelines
-Authors are invited to submit by August 8th original and unpublished research papers in the following categories:
+Authors are invited to submit by August 15th original and unpublished research papers in the following categories:
 
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
 
 All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/UncertaiNLP) and should follow the EMNLP 2025 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
 
-We now accept submissions with already existing ACL Rolling Reviews (ARR) via [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/UncertaiNLP_ARR_Commitment), with the deadline August 22nd AoE. These submissions must have been reviewed by ARR before, which will be used in our evaluation, and which must be linked to our system through the **paper link** field available in the OpenReview form. Please make sure to also follow the EMNLP 2025 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
+We now accept submissions with already existing ACL Rolling Reviews (ARR) via [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/UncertaiNLP_ARR_Commitment), with the deadline August 29th AoE. These submissions must have been reviewed by ARR before, which will be used in our evaluation, and which must be linked to our system through the **paper link** field available in the OpenReview form. Please make sure to also follow the EMNLP 2025 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
 
 All submissions are archival, but we also invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
 
