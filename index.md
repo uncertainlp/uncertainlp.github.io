@@ -75,16 +75,23 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
  
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/speakers/clara_meister.jpg" width="360" alt="Clara Meister" /></td>
     <td><img src="./assets/speakers/gal_yona.jpg" width="360" alt="Gal Yona" /></td>
+    <td><img src="./assets/speakers/maxim_panov.jpg" width="360" alt="Clara Meister" /></td>
     <td><img src="./assets/speakers/eyke_huellermeier.jpg" width="360" alt="Eyke Hüllermeier" /></td>
   </tr>
   <tr>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Clara Meister (ETH Zürich, CH)</figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Gal Yona (Google Research, IL)</figcaption> </td>
+    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Maxim Panov (MBZUAI, UAE)</figcaption> </td>
     <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Eyke Hüllermeier (LMU Münich, DE)</figcaption> </td>
   </tr>
 </table>
+
+**Gal Yona** is a Research Scientist at Google Research, Tel Aviv, where she is working on improving factuality in large language models, with an emphasis on robustness and uncertainty. Before joining Google, Gal completed her PhD in Computer Science at the Weizmann Institute of Science, developing definitions and algorithms for preventing discrimination in machine learning models. Gal received numerous award during her PhD, including the Google PhD Fellowship in Machine Learning (2021).
+
+**Maxim Panov** is an Assistant Professor at MBZUAI, UAE. Before joining MBZUAI, Panov worked as a research scientist at DATADVANCE Company, where he participated in developing a library of data analysis methods for engineering applications. This library, pSeven, is now used by many companies worldwide, including Airbus, Porsche, Mitsubishi, Toyota, and Limagrain. From 2018, Panov has been an assistant professor at Skolkovo Institute of Science and Technology, Moscow, where he led a statistical machine learning group. Since 2022, he has led an AI theory and algorithms group at the Technology Innovation Institute, Abu Dhabi, UAE. His research interests lie in uncertainty quantification for machine learning model predictions and Bayesian approaches in machine learning. Maxim is leading a research team dedicated to exploring the theoretical foundations of uncertainty quantification and its practical applications. Maxim is also co-leading the development of the LM-Polygraph framework for uncertainty quantification for LLMs. Maxim was a local chair for the ICDM 2024 conference and a recipient of the Best Paper Runner-up Award at the Uncertainty in Artificial Intelligence 2023 conference.
+
+**Eyke Hüllermeier** heads the Chair of Artificial Intelligence and Machine Learning at LMU Munich. His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty. He has published more than 300 articles on these topics in top-tier journals and major international conferences, and several of his contributions have been recognized with scientific awards.
+
 
 ## Call for Papers
 Authors are invited to submit by August 15th original and unpublished research papers in the following categories:
