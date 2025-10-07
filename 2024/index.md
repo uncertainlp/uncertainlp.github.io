@@ -206,6 +206,9 @@ Call for Papers is available [here](/2024/cfp).
 ## Contact
 You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
+## Sponsors
+We would also like to thank UTTER and the Research Council of Finland for their support of the workshop.
+
 ## Anti-Harassment Policy
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
 policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy) , and [ACL’s code of conduct](https://2024.eacl.org/code/). 

@@ -111,41 +111,62 @@ Call for Papers is available [here](/cfp).
 
 
 ## Program Committee
-- Luigi Acerbi (University of Helsinki, FI)
-- Roee Aharoni (Google Research, IL)
-- Joris Baan (University of Amsterdam, NL)
-- Samuel Barry (Mistral AI, US)
-- Alexandra Bodrova (Princeton University, US)
-- Margarida M. Campos (Instituto de Telecomunicações, Instituto Superior Técnico, PT)
-- Julius Cheng (University of Cambridge, UK)
-- Caio Corro (INSA Rennes, FR)
-- Nico Daheim (Technische Universität Darmstadt, DE)
-- António Farinhas (Instituto Superior Técnico, PT)
-- Raquel Fernandez (University of Amsterdam, NL)
-- Jes Frellsen (Technical University of Denmark, DK)
-- Taisiya Glushkova (Instituto Superior Técnico, PT)
-- Christian Hardmeier (IT University Copenhagen, DK)
-- Evgenia Ilia (University of Amsterdam, NL)
-- Yuu Jinnai (CyberAgent, Inc., JP)
-- Haau-Sing Li (Technische Universität Darmstadt, DE)
-- Timothee Mickus (University of Helsinki, FI)
-- Laura Perez (University of Edinburgh, UK)
-- Natalie Schluter (Technical University of Denmark, DK)
-- Philip Schulz (Amazon, AU)
-- Sebastian Schuster (University College London, University of London, UK)
-- Rico Sennrich (University of Zürich, CH)
-- Anthony Sicilia (Northeastern University, US)
-- Edwin Simpson (University of Bristol, UK)
-- Aman Sinha (University of Lorraine, FR)
-- Arno Solin (Aalto University, FI)
-- Dharmesh Tailor (University of Amsterdam, NL)
-- Aarne Talman (University of Helsinki, FI)
-- Ivan Titov (University of Edinburgh, UK)
-- Dennis Ulmer (IT University Copenhagen, Technical University of Denmark (DTU), DK)
-- Teemu Vahtola (University of Helsinki, FI)
-- Sami Virpioja (University of Helsinki, FI)
-- Andreas Vlachos (University of Cambridge, UK)
-- Yuxia Wang (Mohamed bin Zayed University of Artificial Intelligence, AE)
+- Luigi Acerbi (University of Helsinki)
+- Roee Aharoni (Google Research)
+- Alessandro Antonucci (IDSIA)
+- Henri Aïdasso (Université du Québec)
+- Samuel Barry (Mistral AI)
+- Nitay Calderon (Technion)
+- Juan Cardenas-Cartagena (University of Groningen)
+- Arie Cattan (Bar Ilan University)
+- Julius Cheng (University of Cambridge)
+- Ye-eun Cho (Sungkyunkwan University)
+- Caio Corro (INSA Rennes)
+- Nico Daheim (Technische Universität Darmstadt)
+- Sarkar Snigdha Sarathi Das (Pennsylvania State University)
+- Vivek Datla (Capital One)
+- Bonaventure F. P. Dossou (McGill University)
+- Adam Faulkner (Capital One)
+- Pedro Lobato Ferreira (University of Amsterdam)
+- Antske Fokkens (VU University Amsterdam)
+- Jes Frellsen (Technical University of Denmark)
+- Thomas L. Griffiths (Princeton University)
+- Georg Groh (Technical University Munich)
+- Christian Hardmeier (IT University Copenhagen)
+- Zhiqi Huang (CapitalOne)
+- Evgenia Ilia (University of Amsterdam)
+- Yuu Jinnai (CyberAgent, Inc.)
+- Mucheol Kim (Chung-Ang University)
+- Deepak Kumar (Infrrd)
+- Lucie Kunitomo-Jacquin (AIST)
+- Haau-Sing Li (Technische Universität Darmstadt)
+- Edison Marrese-Taylor (University of Tokyo)
+- Yan Meng (University of Amsterdam)
+- Timothee Mickus (University of Helsinki)
+- Tatiana Passali (Aristotle University of Thessaloniki)
+- Laura Perez-Beltrachini (University of Edinburgh)
+- Yuval Pinter (Ben-Gurion University of the Negev)
+- Timothy Pistotti (University of Auckland)
+- Alberto Purpura (CapitalOne)
+- Julian Rodemann (LMU Munich)
+- Rico Sennrich (University of Zürich)
+- Arnab Sharma (Paderborn University)
+- Anthony Sicilia (Northeastern University)
+- Edwin Simpson (University of Bristol)
+- Maciej Skorski (University of Warsaw)
+- Sharmin Sultana (University of Massachusetts at Lowell)
+- Aarne Talman (University of Helsinki)
+- Sergey Troshin (University of Amsterdam)
+- Grigorios Tsoumakas (Aristotle University of Thessaloniki)
+- Dennis Ulmer (University of Amsterdam)
+- Teemu Vahtola (University of Helsinki)
+- Matias Valdenegro-Toro (University of Groningen)
+- Sami Virpioja (University of Helsinki)
+- Daniel Vollmers (Paderborn University)
+- Ryan Wails (Georgetown University)
+- Li Wang (CapitalOne)
+- Di Wu (University of Amsterdam)
+- Yusen Zhang (Pennsylvania State University)
 
 <!--- ## Workshop Organizers -->
 <img class="background-image" src="assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
@@ -206,7 +227,7 @@ Call for Papers is available [here](/cfp).
 You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto:uncertainlp@googlegroups.com).
 
 ## Sponsors
-We would like to thank [UTTER](https://he-utter.eu) and [CRAI](https://centerforresponsible.ai) for their support of this workshop.
+We would like to thank [UTTER](https://he-utter.eu), [CRAI](https://centerforresponsible.ai) and Google (via a Google research scholar award) for their support of this workshop.
 <table class="sponsor-table" cellspacing="0" cellpadding="0" style="margin-top: 20px;">
   <tr>
     <td><img height=75px src="./assets/sponsors/eu.png" /></td>
@@ -214,7 +235,6 @@ We would like to thank [UTTER](https://he-utter.eu) and [CRAI](https://centerfor
     <td><a href="https://centerforresponsible.ai"><img height=75px src="./assets/sponsors/crai.png" /></a></td>
   </tr>
 </table>
-
 
 ## Anti-Harassment Policy
 UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL’s anti-harassment 
