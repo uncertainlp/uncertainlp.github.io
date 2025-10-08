@@ -71,24 +71,52 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Mitigation techniques including uncertainty-aware generation, retrieval-augmented methods, and controllable generation
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
+<style>
+  table.speakers {
+    border-collapse: collapse;
+    text-align: center;
+  }
+  table.speakers td {
+    width: 360px;
+    vertical-align: top;
+    padding: 10px;
+  }
+  table.speakers img {
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
+  table.speakers figcaption {
+    font-size: 18px;
+    word-wrap: break-word;
+    margin-top: 6px;
+  }
+</style>
+
 <img class="background-image" src="/assets/speakers_header.png" alt="Invited Speakers" id="invited-speakers" style='width: 100%; margin: auto;'/>
  
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" class="speakers">
   <tr>
-    <td><img src="./assets/speakers/gal_yona.jpg" width="360" alt="Gal Yona" /></td>
-    <td><img src="./assets/speakers/maxim_panov.jpg" width="360" alt="Clara Meister" /></td>
-    <td><img src="./assets/speakers/eyke_huellermeier.jpg" width="360" alt="Eyke Hüllermeier" /></td>
+    <td><img src="./assets/speakers/gal_yona.jpg" alt="Gal Yona" /></td>
+    <td><img src="./assets/speakers/maxim_panov.jpg" alt="Maxim Panov" /></td>
+    <td><img src="./assets/speakers/parisa.jpg" alt="Parisa Kordjamshidi" /></td>  
+    <td><img src="./assets/speakers/eyke_huellermeier.jpg" alt="Eyke Hüllermeier" /></td>
   </tr>
   <tr>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Gal Yona (Google Research, IL)</figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Maxim Panov (MBZUAI, UAE)</figcaption> </td>
-    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Eyke Hüllermeier (LMU Münich, DE)</figcaption> </td>
+    <td><figcaption>Gal Yona (Google Research, IL)</figcaption> </td>
+    <td><figcaption>Maxim Panov (MBZUAI, UAE)</figcaption> </td>
+    <td><figcaption>Parisa Kordjamshidi (Michigan State University, USA)</figcaption></td>
+    <td><figcaption>Eyke Hüllermeier (LMU Münich, DE)</figcaption> </td>
   </tr>
 </table>
 
 **Gal Yona** is a Research Scientist at Google Research, Tel Aviv, where she is working on improving factuality in large language models, with an emphasis on robustness and uncertainty. Before joining Google, Gal completed her PhD in Computer Science at the Weizmann Institute of Science, developing definitions and algorithms for preventing discrimination in machine learning models. Gal received numerous award during her PhD, including the Google PhD Fellowship in Machine Learning (2021).
 
 **Maxim Panov** is an Assistant Professor at MBZUAI, UAE. Before joining MBZUAI, Panov worked as a research scientist at DATADVANCE Company, where he participated in developing a library of data analysis methods for engineering applications. This library, pSeven, is now used by many companies worldwide, including Airbus, Porsche, Mitsubishi, Toyota, and Limagrain. From 2018, Panov has been an assistant professor at Skolkovo Institute of Science and Technology, Moscow, where he led a statistical machine learning group. Since 2022, he has led an AI theory and algorithms group at the Technology Innovation Institute, Abu Dhabi, UAE. His research interests lie in uncertainty quantification for machine learning model predictions and Bayesian approaches in machine learning. Maxim is leading a research team dedicated to exploring the theoretical foundations of uncertainty quantification and its practical applications. Maxim is also co-leading the development of the LM-Polygraph framework for uncertainty quantification for LLMs. Maxim was a local chair for the ICDM 2024 conference and a recipient of the Best Paper Runner-up Award at the Uncertainty in Artificial Intelligence 2023 conference.
+
+**Parisa Kordjamshidi** is an Associate Professor of Computer Science and Engineering at Michigan State University. Her research focuses on Natural Language Processing, multimodal reasoning across vision and language, and neuro-symbolic learning. She received her Ph.D. from KU Leuven and conducted postdoctoral research at the University of Illinois Urbana-Champaign. She is a recipient of the NSF CAREER, Amazon Faculty Research, and Fulbright Scholar Awards, and her research team received the NAACL 2025 Outstanding Research Paper Award. Dr. Kordjamshidi serves as Associate Editor of JAIR,  Co-editor in chief of  ARR (2026), Action Editor for TACL and  has held  roles in organization committee of major conferences including ACL, NAACL, EACL, EMNLP, ECML-PKDD, and AAAI. Currently, she is a visiting Associate Professor at UCLA spending a part of her sabbatical.
 
 **Eyke Hüllermeier** heads the Chair of Artificial Intelligence and Machine Learning at LMU Munich. His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty. He has published more than 300 articles on these topics in top-tier journals and major international conferences, and several of his contributions have been recognized with scientific awards.
 
