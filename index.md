@@ -71,6 +71,27 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Mitigation techniques including uncertainty-aware generation, retrieval-augmented methods, and controllable generation
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
+### Workshop Schedule 
+
+The workshop will take place November 9th, 2025 in room A207 at the [Suzhou International Expo Centre](https://maps.app.goo.gl/WHQDmNgRvGdcECv47). The detailed program is available [here](/program) and an overview of the schedule is given below:
+
+- 09:00 - 09:10: Opening remarks
+- 09:10 - 09:55: Invited Talk - Maxim Panov
+  - Title: *Uncertainty Quantification for Generative Language Models*
+- 09:55 - 10:30: Poster lightning round 1 (in-person presenters)
+- 10:30 - 11:00: Coffee Break
+- 11:00 - 12:15: In-person poster session
+- 12:15 - 13:15: Lunch break
+- 13:15 - 14:00: Invited Talk - Parisa Kordjamshidi
+  - Title: *Grounded Natural Language Understanding: Challenges and Opportunities*
+- 14:00 - 14:45: Poster lightning round 2 (virtual presenters)
+- 14:45 - 15:30: Invited Talk - Gal Yona
+  - Title: *Factuality and Robustness in Large Language Models*
+- 15:30 - 16:00: Coffee Break
+- 16:00 - 16:45: Invited Talk - Eyke Hüllermeier
+  - Title: *Machine Learning Under Uncertainty: Challenges and Perspectives*
+- 16:45 - 17:00: Closing remarks
+
 <style>
   table.speakers {
     border-collapse: collapse;
