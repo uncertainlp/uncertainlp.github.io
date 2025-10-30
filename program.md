@@ -2,7 +2,7 @@
 layout: 2025
 ---
 
-The workshop will take place November 9th, 2025 in room A207 at the <a href="https://maps.app.goo.gl/WHQDmNgRvGdcECv47">Suzhou International Expo Centre</a>. Below is the detailed program of the workshop.
+The workshop will take place November 9th, 2025 in room A207 at the <a href="https://maps.app.goo.gl/WHQDmNgRvGdcECv47">Suzhou International Expo Centre</a>. Below is the detailed program of the workshop. All times listed are in local Suzhou time (UTC+8).
 
 ### Workshop Schedule 
 
@@ -24,7 +24,8 @@ The workshop will take place November 9th, 2025 in room A207 at the <a href="htt
   - *Calibrating Language Models for Neural Ranking under Noisy Supervision with Relaxed Labels* (Arnab Sharma, Daniel Vollmers, and Axel-Cyrille Ngonga Ngomo)
   - *ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models* (Haziq Mohammad Khalid, Athikash Jeyaganthan, Timothy Do, Yicheng Fu, Vasu Sharma, Sean O’Brien, and Kevin Zhu)
   - *Can Vision-Language Models Infer Speaker’s Ignorance? The Role of Visual and Linguistic Cues* (Ye-eun Cho and Yunho Maeng)
-  - *DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability* (Yunzhen He, Yusuke Takase, and Hidetoshi Shimodaira)
+  - *DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability* (Yunzhen He, Yusuke Takase, Yoichi Ishibashi, and Hidetoshi Shimodaira)
+  - *Decoding Uncertainty: The Impact of Decoding Strategies for Uncertainty Estimation in Large Language Models* (Wataru Hashimoto, Hidetaka Kamigaito, and Taro Watanabe)
 - 10:30 - 11:00: **Coffee Break**
 - 11:00 - 12:15: **In-person poster session**
   - Same set of papers as above (in-person presenters).
