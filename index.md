@@ -83,13 +83,13 @@ The workshop will take place November 9th, 2025 in room A207 at the [Suzhou Inte
 - 11:00 - 12:15: In-person poster session
 - 12:15 - 13:15: Lunch break
 - 13:15 - 14:00: Invited Talk - Parisa Kordjamshidi
-  - Title: *Grounded Natural Language Understanding: Challenges and Opportunities*
+  - Title: *Reasoning under Uncertainty with Large Multimodal Language Models*
 - 14:00 - 14:45: Poster lightning round 2 (virtual presenters)
 - 14:45 - 15:30: Invited Talk - Gal Yona
-  - Title: *Factuality and Robustness in Large Language Models*
+  - Title: *Beyond Factuality: Improving Trust and Reliablility of Large Language Models*
 - 15:30 - 16:00: Coffee Break
 - 16:00 - 16:45: Invited Talk - Eyke Hüllermeier
-  - Title: *Machine Learning Under Uncertainty: Challenges and Perspectives*
+  - Title: *Challenges in Uncertainty Quantification for Large Language Models*
 - 16:45 - 17:00: Closing remarks
 
 <style>
