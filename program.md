@@ -8,7 +8,7 @@ The workshop will take place November 9th, 2025 in room A207 at the <a href="htt
 
 - 09:00 - 09:10: **Opening remarks**
 - 09:10 - 09:55: **Invited Talk - Maxim Panov**
-  - **Title**: Uncertainty Quantification for Generative Language Models
+  - **Title**: [Uncertainty Quantification for Generative Language Models](/slides/UncertaiNLP-Maxim-Panov.pdf)
   - **Abstract**: The widespread deployment of large language models (LLMs) has made ML-based applications even more vulnerable to risks of causing various forms of harm to users. For example, models often “hallucinate”, i.e., fabricate facts without providing users an apparent means to validate their statements. Uncertainty quantification (UQ) methods could be used to detect unreliable generations unlocking the safer and more responsible use of LLMs in practice. UQ methods for generative LLMs are a subject of cutting-edge research, which is currently quite scarce and scattered. We systemize these efforts, discuss common caveats, and provide suggestions for the development of novel techniques in this area.
 - 09:55 - 10:30: **Poster lightning round 1 (in-person presenters)**
   - *Uncertainty-driven Partial Diacritization for Arabic Text* (Humaid Ali Alblooshi, Artem Shelmanov, and Hanan Aldarmaki)
@@ -48,7 +48,7 @@ The workshop will take place November 9th, 2025 in room A207 at the <a href="htt
   - *Towards Open-Ended Discovery for Low-Resource NLP* (Bonaventure F. P. Dossou and Henri Aïdasso)
   - *Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknownan* (Lifu Tu, Rui Meng, Shafiq Joty, Yingbo Zhou, and Semih Yavuz)
 - 14:45 - 15:30: **Invited Talk - Gal Yona**
-  - **Title**: Beyond Factuality: Improving Trust and Reliablility of Large Language Models
+  - **Title**: [Beyond Factuality: Improving Trust and Reliablility of Large Language Models](/slides/UncertaiNLP-Gal-Yona.pdf)
   - **Abstract**: Factuality is a cornerstone for trustworthy LLMs, yet despite impressive progress, frontier LLMs still make many confident errors when faced with questions beyond their knowledge boundaries. In this talk I'll present Faithful Response Uncertainty, a different desiderata that shifts the focus away from measuring the number of incorrect statements and towards measuring the alignment between the model's expressed certainty ("decisiveness") and intrinsic certainty ("confidence"). I'll conclude with a discussion of open problems and possible next steps at the intersection of factuality and uncertainty in frontier LLMs.
 - 15:30 - 16:00: **Coffee Break**
 - 16:00 - 16:45: **Invited Talk - Eyke Hüllermeier**
