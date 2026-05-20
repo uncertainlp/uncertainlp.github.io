@@ -220,12 +220,12 @@ Call for Papers is available [here](/cfp).
 </table>
 <table class="organizer-table" cellspacing="0" cellpadding="0" style="margin-top: 20px">
   <tr>
-    <td><img src="./assets/organizers/artem.jpg" /></td>
-    <td><img src="./assets/organizers/swabha.jpeg" /></td>
-    <td><img src="./assets/organizers/joerg.png" /></td>
-    <td><img src="./assets/organizers/artem_v.jpg" /></td>
-    <td><img src="./assets/organizers/raul.jpg" /></td>
-    <td><img src="./assets/organizers/chryssa.jpg" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/artem.jpg" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/swabha.jpeg" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/joerg.png" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/artem_v.jpg" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/raul.jpg" /></td>
+    <td style="width: 16.66%;"><img src="./assets/organizers/chryssa.jpg" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://iinemo.github.io/">Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence</a></figcaption></td>
