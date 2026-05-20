@@ -8,7 +8,8 @@ Website: [https://uncertainlp.github.io/](https://uncertainlp.github.io/)
 We invite submissions to the third edition of the UncertaiNLP workshop on Uncertainty-Aware NLP, to be held at EMNLP 2026.
 
 ## Important Dates
-- **Submission deadline:** TBD
+- **First call for papers:** May 21, 2026
+- **Submission deadline:** August 7, 2026 (Friday)
 - **Submission of already pre-reviewed ARR papers:** TBD
 - **Notification of acceptance:** TBD
 - **Camera-ready papers due:** TBD
@@ -61,7 +62,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
 ## Submission Guidelines
-Authors are invited to submit by TBD original and unpublished research papers in the following categories:
+Authors are invited to submit by August 7, 2026 (Friday) original and unpublished research papers in the following categories:
 
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
