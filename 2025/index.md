@@ -120,10 +120,10 @@ The workshop will take place November 9th, 2025 in room A207 at the [Suzhou Inte
  
 <table cellspacing="0" cellpadding="0" class="speakers">
   <tr>
-    <td><img src="./assets/speakers/gal_yona.jpg" alt="Gal Yona" /></td>
-    <td><img src="./assets/speakers/maxim_panov.jpg" alt="Maxim Panov" /></td>
-    <td><img src="./assets/speakers/parisa.jpg" alt="Parisa Kordjamshidi" /></td>  
-    <td><img src="./assets/speakers/eyke_huellermeier.jpg" alt="Eyke Hüllermeier" /></td>
+    <td><img src="/assets/speakers/gal_yona.jpg" alt="Gal Yona" /></td>
+    <td><img src="/assets/speakers/maxim_panov.jpg" alt="Maxim Panov" /></td>
+    <td><img src="/assets/speakers/parisa.jpg" alt="Parisa Kordjamshidi" /></td>  
+    <td><img src="/assets/speakers/eyke_huellermeier.jpg" alt="Eyke Hüllermeier" /></td>
   </tr>
   <tr>
     <td><figcaption>Gal Yona (Google Research, IL)</figcaption> </td>
@@ -217,7 +217,7 @@ Call for Papers is available [here](/cfp).
 - Yusen Zhang (Pennsylvania State University)
 
 <!--- ## Workshop Organizers -->
-<img class="background-image" src="assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
+<img class="background-image" src="/assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
 
 <style>
   .organizer-table {
@@ -239,11 +239,11 @@ Call for Papers is available [here](/cfp).
 
 <table class="organizer-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/wilker.jpeg" /></td>
-    <td><img src="./assets/organizers/jonathan.jpg" /></td>
-    <td><img src="./assets/organizers/bryan.jpg" /></td>
-    <td><img src="./assets/organizers/marie-catherine.jpg" /></td>
-    <td><img src="./assets/organizers/barbara.png" /></td>
+    <td><img src="/assets/organizers/wilker.jpeg" /></td>
+    <td><img src="/assets/organizers/jonathan.jpg" /></td>
+    <td><img src="/assets/organizers/bryan.jpg" /></td>
+    <td><img src="/assets/organizers/marie-catherine.jpg" /></td>
+    <td><img src="/assets/organizers/barbara.png" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
@@ -255,11 +255,11 @@ Call for Papers is available [here](/cfp).
 </table>
 <table class="organizer-table" cellspacing="0" cellpadding="0" style="margin-top: 20px">
   <tr>
-    <td><img src="./assets/organizers/artem.jpg" /></td>
-    <td><img src="./assets/organizers/swabha.jpeg" /></td>
-    <td><img src="./assets/organizers/joerg.png" /></td>
-    <td><img src="./assets/organizers/raul.jpg" /></td>
-    <td><img src="./assets/organizers/chryssa.jpg" /></td>
+    <td><img src="/assets/organizers/artem.jpg" /></td>
+    <td><img src="/assets/organizers/swabha.jpeg" /></td>
+    <td><img src="/assets/organizers/joerg.png" /></td>
+    <td><img src="/assets/organizers/raul.jpg" /></td>
+    <td><img src="/assets/organizers/chryssa.jpg" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://scholar.google.ru/citations?user=-zFR1g0AAAAJ">Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence</a></figcaption></td>
@@ -278,9 +278,9 @@ You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto
 We would like to thank [UTTER](https://he-utter.eu), [CRAI](https://centerforresponsible.ai) and Google (via a Google research scholar award) for their support of this workshop.
 <table class="sponsor-table" cellspacing="0" cellpadding="0" style="margin-top: 20px;">
   <tr>
-    <td><img height=75px src="./assets/sponsors/eu.png" /></td>
-    <td><a href="https://he-utter.eu"><img height=75px src="./assets/sponsors/utter.png" /></a></td>
-    <td><a href="https://centerforresponsible.ai"><img height=75px src="./assets/sponsors/crai.png" /></a></td>
+    <td><img height=75px src="/assets/sponsors/eu.png" /></td>
+    <td><a href="https://he-utter.eu"><img height=75px src="/assets/sponsors/utter.png" /></a></td>
+    <td><a href="https://centerforresponsible.ai"><img height=75px src="/assets/sponsors/crai.png" /></a></td>
   </tr>
 </table>
 

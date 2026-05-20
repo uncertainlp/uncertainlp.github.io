@@ -105,10 +105,10 @@ TBD
     <td><img src="./assets/speakers/Gintare_Karolina_Dziugaite.jpeg" alt="Gintare Karolina Dziugaite" /></td>
   </tr>
   <tr>
-    <td><figcaption>Dan Roth (University of Pennsylvania, USA)</figcaption> </td>
-    <td><figcaption>Yingzhen Li (Imperial College London, UK)</figcaption> </td>
-    <td><figcaption>André Martins (Instituto Superior Técnico, PT)</figcaption></td>
-    <td><figcaption>Gintare Karolina Dziugaite (Google DeepMind, CAN)</figcaption> </td>
+    <td><figcaption><a href="https://www.cis.upenn.edu/~danroth/">Dan Roth (University of Pennsylvania, USA)</a></figcaption> </td>
+    <td><figcaption><a href="http://yingzhenli.net/home/en/">Yingzhen Li (Imperial College London, UK)</a></figcaption> </td>
+    <td><figcaption><a href="https://andre-martins.github.io/">André Martins (Instituto Superior Técnico, PT)</a></figcaption></td>
+    <td><figcaption><a href="https://gkdz.org/">Gintare Karolina Dziugaite (Google DeepMind, CAN)</a></figcaption> </td>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@ Call for Papers is available [here](/cfp).
 - Alessandro Antonucci (IDSIA, CH)
 
 <!--- ## Workshop Organizers -->
-<img class="background-image" src="assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
+<img class="background-image" src="/assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
 
 <style>
   .organizer-table {
@@ -223,7 +223,7 @@ Call for Papers is available [here](/cfp).
     <td><img src="./assets/organizers/artem.jpg" /></td>
     <td><img src="./assets/organizers/swabha.jpeg" /></td>
     <td><img src="./assets/organizers/joerg.png" /></td>
-    <td><img src="./assets/organizers/artem_v.png" /></td>
+    <td><img src="./assets/organizers/artem_v.jpg" /></td>
     <td><img src="./assets/organizers/raul.jpg" /></td>
     <td><img src="./assets/organizers/chryssa.jpg" /></td>
   </tr>
