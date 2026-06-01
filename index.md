@@ -3,7 +3,7 @@ layout: 2026
 title: Third Workshop on Uncertainty-Aware NLP @EMNLP 2026
 ---
 
-Welcome to the website of the second **UncertaiNLP** workshop to be held at [EMNLP 2026](https://2026.emnlp.org) in Budapest, Hungary.
+Welcome to the website of the third **UncertaiNLP** workshop to be held at [EMNLP 2026](https://2026.emnlp.org) in Budapest, Hungary.
 
 *Tagline:* UncertaiNLP brings together researchers studying uncertainty in human language and NLP tools, including LLMs, and how it can be harnessed to improve NLP.
 
