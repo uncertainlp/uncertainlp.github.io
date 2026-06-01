@@ -15,14 +15,13 @@ Previous editions of UncertaiNLP: [2024](/2024), [2025](/2025).
 - **Submission of already pre-reviewed ARR papers:** TBD
 - **Notification of acceptance:** TBD
 - **Camera-ready papers due:** TBD
-- **Workshop date:** October 24 - 29, 2026 (workshop date TBD)
+- **Workshop date:** October 29, 2026 (Thursday)
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth"). 
 
 ## Workshop Topic and Content
 
 Human languages are inherently ambiguous, and understanding language input is subject to interpretation and complex contextual dependencies. Nevertheless, the main body of research in NLP is still based on the assumption that ambiguities and other types of underspecification can and have to be resolved. This workshop will provide a platform for research that embraces variability in human language and aims to represent and evaluate the uncertainty that arises from it and the modeling tools themselves.
-
 
 ### Workshop Topics
 
@@ -135,6 +134,12 @@ All submissions are archival, but we also invite authors of papers accepted to F
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
 
 Call for Papers is available [here](/cfp).
+
+## Shared Task
+This year, the UncertaiNLP workshop will also host **SHROOM-Visions**, the fourth edition of the SHROOM shared task on hallucination detection.
+SHROOM-Visions advances model-agnostic evaluation of hallucination detection for Vision-and-Language Models. Participants are invited to detect fine-grained hallucination spans across 4 languages (Chinese, English, French, Italian). The shared task runs over the summer; training data (~15,200 items) is already available.
+
+More details: https://helsinki-nlp.github.io/shroom/2026
 
 
 ## Program Committee
