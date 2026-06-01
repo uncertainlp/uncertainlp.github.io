@@ -139,7 +139,7 @@ Call for Papers is available [here](/cfp).
 This year, the UncertaiNLP workshop will also host **SHROOM-Visions**, the fourth edition of the SHROOM shared task on hallucination detection.
 SHROOM-Visions advances model-agnostic evaluation of hallucination detection for Vision-and-Language Models. Participants are invited to detect fine-grained hallucination spans across 4 languages (Chinese, English, French, Italian). The shared task runs over the summer; training data (~15,200 items) is already available.
 
-More details: https://helsinki-nlp.github.io/shroom/2026
+More details: [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.github.io/shroom/2026)
 
 
 ## Program Committee
