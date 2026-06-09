@@ -67,11 +67,17 @@ Authors are invited to submit by August 7, 2026 (Friday) original and unpublishe
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
 
-All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP) and should follow the EMNLP 2026 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
+All submissions must be in PDF format and should follow the EMNLP 2026 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
 
-We now accept submissions with already existing ACL Rolling Reviews (ARR) via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP_ARR_Commitment), with the deadline TBD. These submissions must have been reviewed by ARR before, which will be used in our evaluation, and which must be linked to our system through the **paper link** field available in the OpenReview form. Please make sure to also follow the EMNLP 2026 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)).
+We accept three types of submissions:
 
-All submissions are archival, but we also invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
+1. **Direct archival submissions.** Original and unpublished papers submitted directly to the workshop via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP). Submissions will be reviewed by the workshop program committee and, if accepted, will be published in the workshop proceedings.
+
+2. **Direct non-archival submissions.** Papers submitted directly to the workshop via the same [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP) link. Non-archival submissions go through the same review process as archival ones and, if accepted, are presented at the workshop, but they are **not** included in the workshop proceedings. This option allows authors to receive feedback and present their work at the workshop while retaining the possibility of submitting it to another venue later. Please indicate in the submission form that your submission is non-archival.
+
+3. **ARR commitment.** Submissions with already existing ACL Rolling Review (ARR) reviews, committed via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP_ARR_Commitment), with the deadline TBD. These submissions must have been reviewed by ARR before; the ARR reviews will be used in our evaluation and must be linked to our system through the **paper link** field available in the OpenReview form.
+
+In addition, we invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
 
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
 
