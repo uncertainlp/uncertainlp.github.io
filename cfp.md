@@ -81,6 +81,14 @@ In addition, we invite authors of papers accepted to Findings to reach out to th
 
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
 
+### Reciprocal Reviewing
+
+To ensure a high-quality review process, every direct submission must appoint (via the submission form) one or more authors responsible for **reciprocal reviews** (standard load: 3 papers). Reciprocal reviewers must meet **both** eligibility criteria:
+- hold a PhD **or**
+- have co-authored at least 1 peer-reviewed paper at venues such as ACL, EMNLP, NAACL, EACL, COLING, NeurIPS, ICML, ICLR, AAAI, IJCAI, or comparable venues
+
+Only submissions with **no eligible authors** are exempt. Failure to complete reciprocal reviews by the announced deadline will result in desk rejection of the associated submission (exceptions are rare and assessed independently by the workshop chairs).
+
 ## Workshop Organizers
 - Wilker Aziz, University of Amsterdam
 - Jonathan Berant, Tel Aviv University and Google Deepmind
