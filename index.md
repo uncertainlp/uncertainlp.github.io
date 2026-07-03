@@ -202,6 +202,10 @@ More details: [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.
 - Bidit Das (Amazon, US)
 - Eshaan Jain (University of Southern California, US)
 - Zirui Wei (C3.ai, US)
+- Vladislav Smirnov (MBZUAI, AE)
+- Abhishek Maligehalli Shivalingaiah (Amazon, US)
+- Ashish Mehta (Hippocratic AI, US)
+- Pulkit Arya (Pointer, US)
 
 <!--- ## Workshop Organizers -->
 <img class="background-image" src="/assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
