@@ -104,7 +104,7 @@ TBD
     <td><img src="./assets/speakers/Gintare_Karolina_Dziugaite.jpeg" alt="Gintare Karolina Dziugaite" /></td>
   </tr>
   <tr>
-    <td><figcaption><a href="https://www.cis.upenn.edu/~danroth/">Dan Roth (University of Pennsylvania, USA)</a></figcaption> </td>
+    <td><figcaption><a href="https://www.cis.upenn.edu/~danroth/">Dan Roth (Oracle AI and the University of Pennsylvania)</a></figcaption> </td>
     <td><figcaption><a href="http://yingzhenli.net/home/en/">Yingzhen Li (Imperial College London, UK)</a></figcaption> </td>
     <td><figcaption><a href="https://andre-martins.github.io/">André Martins (Instituto Superior Técnico, PT)</a></figcaption></td>
     <td><figcaption><a href="https://gkdz.org/">Gintare Karolina Dziugaite (Google DeepMind, CAN)</a></figcaption> </td>
