@@ -143,7 +143,7 @@ Call for Papers is available [here](/cfp).
 
 ### Reciprocal Reviewing
 
-To ensure a high-quality review process, every direct submission must appoint (via the submission form) one or more authors responsible for **reciprocal reviews** (standard load: 3 papers). Reciprocal reviewers must meet **both** eligibility criteria:
+To ensure a high-quality review process, every direct submission must appoint (via the submission form) one or more authors responsible for **reciprocal reviews** (standard load: 3 papers). Reciprocal reviewers must meet **at least one** eligibility criterion:
 - hold a PhD **or**
 - have co-authored at least 1 peer-reviewed paper at venues such as ACL, EMNLP, NAACL, EACL, COLING, NeurIPS, ICML, ICLR, AAAI, IJCAI, or comparable venues
 
