@@ -12,7 +12,7 @@ Previous editions of UncertaiNLP: [2024](/2024), [2025](/2025).
 ## Important Dates
 - **First call for papers:** May 21, 2026
 - **Submission deadline:** August 7, 2026 (Friday)
-- **Submission of already pre-reviewed ARR papers:** TBD
+- **Submission of already pre-reviewed ARR papers:** August 23, 2026
 - **Notification of acceptance:** TBD
 - **Camera-ready papers due:** TBD
 - **Workshop date:** October 29, 2026 (Thursday)
