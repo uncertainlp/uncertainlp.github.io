@@ -68,6 +68,8 @@ We accept three types of submissions:
 
 3. **ARR commitment.** Submissions with already existing ACL Rolling Review (ARR) reviews, committed via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP_ARR_Commitment), with the deadline TBD. These submissions must have been reviewed by ARR before; the ARR reviews will be used in our evaluation and must be linked to our system through the **paper link** field available in the OpenReview form.
 
+**Concurrent submissions.** Non-archival submissions cannot be simultaneously submitted to EMNLP 2026 nor to EMNLP co-located events (e.g., other EMNLP 2026 workshops).
+
 In addition, we invite authors of papers accepted to Findings to reach out to the organizing committee of UncertaiNLP to present their papers at the workshop, if in line with the topics described above.
 
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
