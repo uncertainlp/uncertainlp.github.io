@@ -9,11 +9,11 @@ We invite submissions to the third edition of the UncertaiNLP workshop on Uncert
 
 ## Important Dates
 - **First call for papers:** May 21, 2026
-- **Submission deadline:** August 7, 2026 (Friday)
+- **Submission deadline:** ~~August 7, 2026 (AoE)~~ August 10, 2026
 - **Submission of already pre-reviewed ARR papers:** TBD
-- **Notification of acceptance:** TBD
-- **Camera-ready papers due:** TBD
-- **Workshop date:** October 24 - 29, 2026 (workshop date TBD)
+- **Notification of acceptance:** September 11, 2026
+- **Camera-ready papers due:** September 18, 2026
+- **Workshop date:** October 29, 2026 (details TBA)
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
