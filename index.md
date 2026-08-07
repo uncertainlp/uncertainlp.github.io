@@ -121,7 +121,7 @@ TBD
 **Gintare Karolina Dziugaite** is a Senior Research Scientist at Google Brain, based in Toronto, Canada, an Adjunct Professor in the School of Computer Science at McGill University, and an Associate Industry Member of Mila, the Quebec AI Institute. Her research combines theoretical and empirical approaches to understanding deep learning, with a focus on generalization, network compression, and statistical learning theory. Prior to joining Google, she led the Trustworthy AI program at Element AI / ServiceNow. She obtained her PhD in machine learning from the University of Cambridge under the supervision of Zoubin Ghahramani, and holds a Masters of Advanced Study in Applied Mathematics, also from Cambridge. She was a member of the Institute for Advanced Study in Princeton (2020) during the Special Year on Optimization, Statistics, and Theoretical Machine Learning, and has twice been a long-term participant at the Simons Institute for the Theory of Computing at UC Berkeley, in the Foundations of Machine Learning (2017) and Foundations of Deep Learning (2019) programs.
 
 ## Call for Papers
-Authors are invited to submit by August 7, 2026 (Friday) original and unpublished research papers in the following categories:
+Authors are invited to submit original and unpublished research papers in the following categories:
 
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
