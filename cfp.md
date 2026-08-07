@@ -53,7 +53,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
 ## Submission Guidelines
-Authors are invited to submit by August 7, 2026 (Friday) original and unpublished research papers in the following categories:
+Authors are invited to submit original and unpublished research papers in the following categories:
 
 - Full papers (up to 8 pages) for substantial contributions.
 - Short papers (up to 4 pages) for ongoing or preliminary work.
