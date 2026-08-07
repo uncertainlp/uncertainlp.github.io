@@ -3,19 +3,10 @@ layout: 2026
 ---
 
 # Call for papers: UncertaiNLP - Third Workshop on Uncertainty-Aware NLP @ EMNLP 2026
-Website: [https://uncertainlp.github.io/](https://uncertainlp.github.io/)
+Website (incl. **important dates**): [https://uncertainlp.github.io/](https://uncertainlp.github.io/)
 
 We invite submissions to the third edition of the UncertaiNLP workshop on Uncertainty-Aware NLP, to be held at EMNLP 2026.
 
-## Important Dates
-- **First call for papers:** May 21, 2026
-- **Submission deadline:** ~~August 7, 2026 (AoE)~~ August 10, 2026
-- **Submission of already pre-reviewed ARR papers:** TBD
-- **Notification of acceptance:** September 11, 2026
-- **Camera-ready papers due:** September 18, 2026
-- **Workshop date:** October 29, 2026 (details TBA)
-
-All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ## Introduction
 Human languages are inherently ambiguous, and understanding language input is subject to interpretation and complex contextual dependencies. Nevertheless, the main body of research in NLP is still based on the assumption that ambiguities and other types of underspecification can and have to be resolved. This workshop will provide a platform for research that embraces variability in human language and aims to represent and evaluate the uncertainty that arises from it and the modeling tools themselves.
