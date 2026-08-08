@@ -135,11 +135,9 @@ We accept three types of submissions:
 
 2. **Direct non-archival submissions.** Papers submitted directly to the workshop via the same [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP) link. Non-archival submissions go through the same review process as archival ones and, if accepted, are presented at the workshop, but they are **not** included in the workshop proceedings. This option allows authors to receive feedback and present their work at the workshop while retaining the possibility of submitting it to another venue later. Please indicate in the submission form that your submission is non-archival.
 
-3. **ARR commitment.** Submissions with already existing ACL Rolling Review (ARR) reviews, committed via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP_ARR_Commitment), with the deadline TBD. These submissions must have been reviewed by ARR before; the ARR reviews will be used in our evaluation and must be linked to our system through the **paper link** field available in the OpenReview form.
+3. **ARR commitment.** Submissions with already existing ACL Rolling Review (ARR) reviews, committed via [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/UncertaiNLP_ARR_Commitment), with the deadline TBD. These submissions must have been reviewed by ARR before; the ARR reviews will be used in our evaluation and must be linked to our system through the **paper link** field available in the OpenReview form. This route is also open to papers already accepted to EMNLP 2026 (main conference or Findings): if your work fits the topics above, we warmly invite you to commit your ARR reviews and present it at the workshop as well — our goal is to gather the community working on uncertainty quantification in one place.
 
 **Concurrent submissions.** Non-archival submissions can be simultaneously submitted to EMNLP 2026 (including industry track), but not to EMNLP co-located workshops.
-
-In addition, we invite authors of papers accepted to EMNLP 2026 (main conference or Findings) to commit their ARR reviews to UncertaiNLP in order to additionally present their papers at the workshop, if in line with the topics described above. Our goal is to bring together, in one place, the community working on uncertainty quantification.
 
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
 
