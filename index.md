@@ -68,9 +68,11 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
   - Mitigation techniques including uncertainty-aware generation, retrieval-augmented methods, and controllable generation
   - Relationship between specific kinds (or sources) of uncertainty and hallucination occurrence
 
-### Workshop Schedule 
+### Workshop Schedule
 
-TBD
+The workshop will take place on **October 29, 2026**, from **09:00 to 17:25 Budapest local time (CET, UTC+1)**.
+
+See the [full workshop program](/program), including keynote times, lightning talks, and poster sessions.
 
 <style>
   table.speakers {
@@ -288,3 +290,4 @@ UncertaiNLP workshop adheres to the [ACL’s code of ethics](https://www.aclweb.
 ## Image Credits
 
 Images were created using text-to-image model supplied via [getimg.ai/](https://getimg.ai/text-to-image), using the [CreativeML Open Rail-M license](https://huggingface.co/spaces/CompVis/stable-diffusion-license).
+
