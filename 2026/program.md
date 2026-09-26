@@ -5,7 +5,7 @@ permalink: /2026/program
 
 The workshop will take place on **Thursday, October 29, 2026**, in Budapest, Hungary. All times below are in **Budapest local time (CET, UTC+1)**.
 
-See the complete list of [accepted papers](/2026/accepted-papers.md).
+See the complete list of [accepted papers](/2026/accepted-papers).
 
 ### Workshop Schedule
 
