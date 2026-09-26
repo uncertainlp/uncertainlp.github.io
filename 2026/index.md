@@ -72,7 +72,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 The workshop will take place on **October 29, 2026**, from **09:00 to 17:25 Budapest local time (CET, UTC+1)**.
 
-See the [full workshop program](/program), including keynote times, lightning talks, and poster sessions.
+See the [full workshop program](/2026/program), including keynote times, lightning talks, and poster sessions.
 
 <style>
   table.speakers {
@@ -143,7 +143,7 @@ We accept three types of submissions:
 
 Camera-ready versions for accepted archival papers should be uploaded to the submission system by the camera-ready deadline. Authors may use up to one (1) additional page to address reviewer comments.
 
-Call for Papers is available [here](/cfp).
+Call for Papers is available [here](/2026/cfp).
 
 ### Reciprocal Reviewing
 
