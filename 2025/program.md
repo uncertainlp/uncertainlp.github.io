@@ -1,5 +1,6 @@
 ---
 layout: 2025
+permalink: /2025/program
 ---
 
 The workshop will take place November 9th, 2025 in room A207 at the <a href="https://maps.app.goo.gl/WHQDmNgRvGdcECv47">Suzhou International Expo Centre</a>. Below is the detailed program of the workshop. All times listed are in local Suzhou time (UTC+8).

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: 2024
 permalink: /2024/program
 ---
 <!-- # Program of the First Workshop on Uncertainty-Aware NLP @EACL 2024 -->

@@ -1,5 +1,6 @@
 ---
 layout: 2025
+permalink: /2025/cfp
 ---
 
 # Call for papers: UncertaiNLP - Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025

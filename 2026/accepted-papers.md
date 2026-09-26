@@ -1,5 +1,6 @@
 ---
 layout: 2026
+permalink: /2026/accepted-papers
 ---
 
 # Accepted Papers (2026)
