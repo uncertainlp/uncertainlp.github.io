@@ -1,5 +1,6 @@
 ---
 layout: 2026
+permalink: /2026/
 title: Third Workshop on Uncertainty-Aware NLP @EMNLP 2026
 ---
 
