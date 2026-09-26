@@ -103,10 +103,10 @@ See the [full workshop program](/2026/program), including keynote times, lightni
  
 <table cellspacing="0" cellpadding="0" class="speakers">
   <tr>
-    <td><img src="./assets/speakers/Dan_Roth.jpeg" alt="Dan Roth" /></td>
-    <td><img src="./assets/speakers/Yingzhen_Li.jpeg" alt="Yingzhen Li" /></td>
-    <td><img src="./assets/speakers/Andre_Martins.jpeg" alt="André Martins" /></td>  
-    <td><img src="./assets/speakers/Gintare_Karolina_Dziugaite.jpeg" alt="Gintare Karolina Dziugaite" /></td>
+    <td><img src="/assets/speakers/Dan_Roth.jpeg" alt="Dan Roth" /></td>
+    <td><img src="/assets/speakers/Yingzhen_Li.jpeg" alt="Yingzhen Li" /></td>
+    <td><img src="/assets/speakers/Andre_Martins.jpeg" alt="André Martins" /></td>  
+    <td><img src="/assets/speakers/Gintare_Karolina_Dziugaite.jpeg" alt="Gintare Karolina Dziugaite" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://www.cis.upenn.edu/~danroth/">Dan Roth (Oracle AI and the University of Pennsylvania)</a></figcaption> </td>
@@ -240,11 +240,11 @@ More details: [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.
 
 <table class="organizer-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/organizers/wilker.jpeg" /></td>
-    <td><img src="./assets/organizers/jonathan.jpg" /></td>
-    <td><img src="./assets/organizers/bryan.jpg" /></td>
-    <td><img src="./assets/organizers/marie-catherine.jpg" /></td>
-    <td><img src="./assets/organizers/barbara.png" /></td>
+    <td><img src="/assets/organizers/wilker.jpeg" /></td>
+    <td><img src="/assets/organizers/jonathan.jpg" /></td>
+    <td><img src="/assets/organizers/bryan.jpg" /></td>
+    <td><img src="/assets/organizers/marie-catherine.jpg" /></td>
+    <td><img src="/assets/organizers/barbara.png" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
@@ -256,12 +256,12 @@ More details: [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.
 </table>
 <table class="organizer-table" cellspacing="0" cellpadding="0" style="margin-top: 20px">
   <tr>
-    <td style="width: 16.66%;"><img src="./assets/organizers/artem.jpg" /></td>
-    <td style="width: 16.66%;"><img src="./assets/organizers/swabha.jpeg" /></td>
-    <td style="width: 16.66%;"><img src="./assets/organizers/joerg.png" /></td>
-    <td style="width: 16.66%;"><img src="./assets/organizers/artem_v.jpg" /></td>
-    <td style="width: 16.66%;"><img src="./assets/organizers/raul.jpg" /></td>
-    <td style="width: 16.66%;"><img src="./assets/organizers/chryssa.jpg" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/artem.jpg" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/swabha.jpeg" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/joerg.png" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/artem_v.jpg" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/raul.jpg" /></td>
+    <td style="width: 16.66%;"><img src="/assets/organizers/chryssa.jpg" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="https://iinemo.github.io/">Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence</a></figcaption></td>
@@ -281,7 +281,7 @@ You can contact the organizers by email to [uncertainlp@googlegroups.com](mailto
 We would like to thank [MCML (the Munich Center for Machine Learning)](https://www.mcml.ai) and co-organisers' project funding for their support of this workshop.
 <table class="sponsor-table" cellspacing="0" cellpadding="0" style="margin-top: 20px;">
   <tr>
-    <td><a href="https://www.mcml.ai"><img height=75px src="./assets/sponsors/mcml.jpg" /></a></td>
+    <td><a href="https://www.mcml.ai"><img height=75px src="/assets/sponsors/mcml.jpg" /></a></td>
   </tr>
 </table>
 
