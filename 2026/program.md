@@ -16,8 +16,8 @@ Each keynote has a 40-minute slot: approximately 30 minutes for the talk and 10 
 | 09:00–09:10 | Opening Remarks and SHROOM Introduction |
 | 09:10–09:50 | Keynote Talk 1: **André Martins** |
 | 09:50–10:30 | Keynote Talk 2: **Dan Roth** |
-| 10:30–11:00 | Coffee Break |
-| 11:00–11:30 | Poster lightning round 1 |
+| 10:30–10:55 | Coffee Break |
+| 10:55–11:30 | Poster lightning round 1 |
 | 11:30–12:30 | In-Person Poster Session 1 |
 | 12:30–13:55 | Lunch Break |
 | 13:55–14:25 | Poster lightning round 2 |
