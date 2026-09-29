@@ -71,7 +71,7 @@ UncertaiNLP welcomes submissions to topics related (but not limited) to:
 
 ### Workshop Schedule
 
-The workshop will take place on **October 29, 2026**, from **09:00 to 17:25 Budapest local time (CET, UTC+1)**.
+The workshop will take place on **October 29, 2026**, from **09:00 to 17:30 Budapest local time (CET, UTC+1)**.
 
 See the [full workshop program](/2026/program), including keynote times, lightning talks, and poster sessions.
 
