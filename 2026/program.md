@@ -14,7 +14,7 @@ Each keynote has a 40-minute slot: approximately 30 minutes for the talk and 10 
 | Time | Session |
 |---|---|
 | 09:00–09:10 | Opening Remarks ([slides](https://drive.google.com/file/d/1U4AlzcMSg9aPigWUA0wIC8Kagj4TlWI6/view?usp=sharing)) |
-| 09:10–09:50 | Keynote Talk 1: **André Martins** — *Sparsity Meets Uncertainty: Applications to Conformal Prediction and Generalized Variational Bayes* |
+| 09:10–09:50 | Keynote Talk 1: [**André Martins**](#keynote-martins) |
 | 09:50–10:30 | Keynote Talk 2: **Dan Roth** |
 | 10:30–10:55 | Coffee Break |
 | 10:55–11:25 | Poster lightning round 1 |
@@ -24,12 +24,12 @@ Each keynote has a 40-minute slot: approximately 30 minutes for the talk and 10 
 | 13:55–14:25 | Poster lightning round 2 |
 | 14:25–15:30 | In-Person Poster Session 2 |
 | 15:30–16:00 | Coffee Break |
-| 16:00–16:40 | Keynote Talk 3: **Yingzhen Li** — *Quantifying uncertainty in-context via probing questions* |
-| 16:40–17:20 | Keynote Talk 4: **Gintare Karolina Dziugaite** — *Remembering and Forgetting: The Antithetical Roles of Linear Mode Connectivity* |
+| 16:00–16:40 | Keynote Talk 3: [**Yingzhen Li**](#keynote-li) |
+| 16:40–17:20 | Keynote Talk 4: [**Gintare Karolina Dziugaite**](#keynote-dziugaite) |
 | 17:20–17:30 | Closing Remarks |
 | 17:30 | End |
 
-### Keynote: André Martins
+### Keynote: André Martins {#keynote-martins}
 
 **Sparsity Meets Uncertainty: Applications to Conformal Prediction and Generalized Variational Bayes**
 
@@ -41,7 +41,7 @@ In the second part, I will present a generalized variational Bayes method based 
 
 Joint work with Margarida Campos, Sophia Sklaviadis, Mário A.T. Figueiredo, Thomas Moellenhoff, Emtiyaz Khan
 
-### Keynote: Yingzhen Li
+### Keynote: Yingzhen Li {#keynote-li}
 
 **Quantifying uncertainty in-context via probing questions**
 
@@ -49,7 +49,7 @@ Joint work with Margarida Campos, Sophia Sklaviadis, Mário A.T. Figueiredo, Tho
 
 **Abstract:** As large language models (LLMs) gain popularity in conducting prediction tasks in-context, understanding and estimating uncertainty in in-context learning becomes essential to ensuring reliability of prediction and decision-making. The recent hypothesis of in-context learning performing predictive Bayesian inference opens the avenue for Bayesian uncertainty estimation and decision making algorithms. This talk will discuss our recent efforts in decomposing uncertainty and decision making under uncertainty in-context. We first introduce a variational uncertainty decomposition framework for in-context learning without explicitly sampling from the latent parameter posterior, by optimising auxiliary question as probes to obtain an upper bound to the aleatoric uncertainty of an LLM’s in-context learning procedure. We then show the classical Thompson Sampling algorithm can be adapted in this auxiliary question probing framework, where different aggregation strategies for the probes result in different exploration-exploitation trade-off behaviours.
 
-### Keynote: Gintare Karolina Dziugaite
+### Keynote: Gintare Karolina Dziugaite {#keynote-dziugaite}
 
 **Remembering and Forgetting: The Antithetical Roles of Linear Mode Connectivity**
 
