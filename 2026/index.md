@@ -203,57 +203,90 @@ More details: [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.
 <img class="background-image" src="/assets/organizers_header.png" id="organizers" alt="Workshop Organizers" style='width: 100%; margin: auto;'/>
 
 <style>
-  .organizer-table {
-    width: 100%;
-    border-collapse: collapse; 
+  .org-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 28px 20px;
+    margin: 10px 0 20px;
   }
-  .organizer-table td {
-    width: 20%; 
+  .org-card {
+    width: 190px;
     text-align: center;
-    vertical-align: top;
   }
-  .organizer-table img {
+  .org-card img {
+    width: 180px;
+    height: 180px;
     object-fit: cover;
+    object-position: center top;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 6px;
   }
+  .org-name { font-size: 17px; font-weight: 600; line-height: 1.3; }
+  .org-aff { font-size: 14px; color: #555; line-height: 1.3; margin-top: 3px; }
   .sponsor-table tr td {
     border: none;
   }
 </style>
 
-<table class="organizer-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><img src="/assets/organizers/wilker.jpeg" /></td>
-    <td><img src="/assets/organizers/jonathan.jpg" /></td>
-    <td><img src="/assets/organizers/bryan.jpg" /></td>
-    <td><img src="/assets/organizers/marie-catherine.jpg" /></td>
-    <td><img src="/assets/organizers/barbara.png" /></td>
-  </tr>
-  <tr>
-    <td><figcaption><a href="https://wilkeraziz.github.io/">Wilker Aziz, University of Amsterdam</a></figcaption></td>
-    <td><figcaption><a href="https://www.cs.tau.ac.il/~joberant/">Jonathan Berant, Tel Aviv University and Google Deepmind</a></figcaption></td>
-    <td><figcaption><a href="https://bryaneikema.com">Bryan Eikema, University of Amsterdam</a></figcaption></td>
-    <td><figcaption><a href="https://cental.uclouvain.be/team/mcdm/">Marie-Catherine de Marneffe, UCLouvain and FNRS</a></figcaption></td>
-    <td><figcaption><a href="https://bplank.github.io/">Barbara Plank, LMU Münich and IT University of Copenhagen</a></figcaption></td>
-  </tr>
-</table>
-<table class="organizer-table" cellspacing="0" cellpadding="0" style="margin-top: 20px">
-  <tr>
-    <td style="width: 16.66%;"><img src="/assets/organizers/artem.jpg" /></td>
-    <td style="width: 16.66%;"><img src="/assets/organizers/swabha.jpeg" /></td>
-    <td style="width: 16.66%;"><img src="/assets/organizers/joerg.png" /></td>
-    <td style="width: 16.66%;"><img src="/assets/organizers/artem_v.jpg" /></td>
-    <td style="width: 16.66%;"><img src="/assets/organizers/raul.jpg" /></td>
-    <td style="width: 16.66%;"><img src="/assets/organizers/chryssa.jpg" /></td>
-  </tr>
-  <tr>
-    <td><figcaption><a href="https://iinemo.github.io/">Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence</a></figcaption></td>
-    <td><figcaption><a href="https://swabhs.com/">Swabha Swayamdipta, USC Viterbi CS</a></figcaption></td>
-    <td><figcaption><a href="https://blogs.helsinki.fi/tiedeman/">Jörg Tiedemann, University of Helsinki</a></figcaption></td>
-    <td><figcaption><a href="https://scholar.google.com/citations?user=jWmgVhMAAAAJ">Artem Vazhentsev, Mohamed bin Zayed University of Artificial Intelligence</a></figcaption></td>
-    <td><figcaption><a href="https://jrvc.github.io/">Raúl Vázquez University of Helsinki</a></figcaption></td>
-    <td><figcaption><a href="https://scholar.google.com/citations?user=S5NGkFsAAAAJ">Chrysoula Zerva, Instituto de Telecomunicaçõ<br/>es</a></figcaption></td>
-  </tr>
-</table>
+<div class="org-grid">
+  <div class="org-card">
+    <img src="/assets/organizers/wilker.jpeg" alt="Wilker Aziz" />
+    <div class="org-name"><a href="https://wilkeraziz.github.io/">Wilker Aziz</a></div>
+    <div class="org-aff">University of Amsterdam</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/jonathan.jpg" alt="Jonathan Berant" />
+    <div class="org-name"><a href="https://www.cs.tau.ac.il/~joberant/">Jonathan Berant</a></div>
+    <div class="org-aff">Tel Aviv University and Google DeepMind</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/bryan.jpg" alt="Bryan Eikema" />
+    <div class="org-name"><a href="https://bryaneikema.com">Bryan Eikema</a></div>
+    <div class="org-aff">University of Amsterdam</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/marie-catherine.jpg" alt="Marie-Catherine de Marneffe" />
+    <div class="org-name"><a href="https://cental.uclouvain.be/team/mcdm/">Marie-Catherine de Marneffe</a></div>
+    <div class="org-aff">UCLouvain and FNRS</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/barbara.png" alt="Barbara Plank" />
+    <div class="org-name"><a href="https://bplank.github.io/">Barbara Plank</a></div>
+    <div class="org-aff">LMU Munich and IT University of Copenhagen</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/artem.jpg" alt="Artem Shelmanov" />
+    <div class="org-name"><a href="https://iinemo.github.io/">Artem Shelmanov</a></div>
+    <div class="org-aff">Mohamed bin Zayed University of Artificial Intelligence</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/swabha.jpeg" alt="Swabha Swayamdipta" />
+    <div class="org-name"><a href="https://swabhs.com/">Swabha Swayamdipta</a></div>
+    <div class="org-aff">USC Viterbi CS</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/joerg.png" alt="Jörg Tiedemann" />
+    <div class="org-name"><a href="https://blogs.helsinki.fi/tiedeman/">Jörg Tiedemann</a></div>
+    <div class="org-aff">University of Helsinki</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/artem_v.jpg" alt="Artem Vazhentsev" />
+    <div class="org-name"><a href="https://scholar.google.com/citations?user=jWmgVhMAAAAJ">Artem Vazhentsev</a></div>
+    <div class="org-aff">Mohamed bin Zayed University of Artificial Intelligence</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/raul.jpg" alt="Raúl Vázquez" />
+    <div class="org-name"><a href="https://jrvc.github.io/">Raúl Vázquez</a></div>
+    <div class="org-aff">University of Helsinki</div>
+  </div>
+  <div class="org-card">
+    <img src="/assets/organizers/chryssa.jpg" alt="Chrysoula Zerva" />
+    <div class="org-name"><a href="https://scholar.google.com/citations?user=S5NGkFsAAAAJ">Chrysoula Zerva</a></div>
+    <div class="org-aff">Instituto de Telecomunicações</div>
+  </div>
+</div>
 
 
 ## Contact
