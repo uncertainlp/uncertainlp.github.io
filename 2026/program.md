@@ -13,7 +13,7 @@ Each keynote has a 40-minute slot: approximately 30 minutes for the talk and 10 
 
 | Time | Session |
 |---|---|
-| 09:00–09:10 | Opening Remarks |
+| 09:00–09:10 | Opening Remarks ([slides](/slides/UncertaiNLP-2026-Opening.pdf)) |
 | 09:10–09:50 | Keynote Talk 1: **André Martins** |
 | 09:50–10:30 | Keynote Talk 2: **Dan Roth** |
 | 10:30–10:55 | Coffee Break |
